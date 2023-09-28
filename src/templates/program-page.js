@@ -6,7 +6,7 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import FullWidthImage from "../components/FullWidthImage";
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 // eslint-disable-next-line
@@ -43,40 +43,25 @@ import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 //   );
 // };
 
-export const ProgramPageTemplate = ({
+export const ProgramPageTemplate = ({ image, title }) => {
+  console.log("image:");
+  console.log(image);
+
+  const newimage = getImage(image) || image;
+
+  console.log("newimage:");
+  console.log(newimage);
+
+  const pImage = {
     image,
-  title,
-}) => {
-    console.log('image:')
-    console.log(image)
-
-    const newimage = getImage(image) || image;
-
-    console.log('newimage:')
-    console.log(newimage)
+    alt: "test",
+  };
 
   return (
     <section className="section">
-       {title}
-       
-        {image?.url ? (
-          <img
-            src={image}
-            objectFit={"cover"}
-        
-            // This is a presentational image, so the alt should be an empty string
-            alt=""
-          />
-        ) : (
-          <GatsbyImage
-            image={image}
-            objectFit={"cover"}
-            layout="fullWidth"
-            alt=""
-            formats={["auto", "webp", "avif"]}
-          />
-        )}
+      {title}
 
+      <PreviewCompatibleImage imageInfo={pImage} />
     </section>
   );
 };
@@ -93,10 +78,8 @@ const ProgramPage = ({ data }) => {
 
   return (
     <Layout>
-        OUTER PRGROMA TEMPLATE
-
-        {/* <GatsbyImage image={image} alt='test' /> */}
-
+      OUTER PRGROMA TEMPLATE
+      {/* <GatsbyImage image={image} alt='test' /> */}
       {/* <ProgramPageTemplate
         image={post.frontmatter.featuredimage}
         content={post.html}
@@ -108,13 +91,9 @@ const ProgramPage = ({ data }) => {
           </Helmet>
         }
       /> */}
-
       <ProgramPageTemplate
-       
         title={post.frontmatter.title}
         image={post.frontmatter.featuredimage}
-        
-        
       />
     </Layout>
   );
@@ -137,20 +116,14 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         featuredimage {
-            childImageSharp {
-                gatsbyImageData(
-                    width: 120
-                    quality: 100
-                    layout: CONSTRAINED
-                )
-
-            }
+          childImageSharp {
+            gatsbyImageData(width: 120, quality: 100, layout: CONSTRAINED)
+          }
         }
       }
     }
   }
 `;
-
 
 // export const pageQuery = graphql`
 //   query BlogPostByID($id: String!) {

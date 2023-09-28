@@ -58,6 +58,12 @@ const Navbar = () => {
               Form Examples
             </Link>
             </li>
+
+            <li className="navbar-item" style={{padding: "0px"}}>
+            <Link className="navbar-item" to="/get-involved">
+              Get Involved
+            </Link>
+            </li>
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"

@@ -23,6 +23,8 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+
+            INSIDE BLOG TEMPLATE
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>

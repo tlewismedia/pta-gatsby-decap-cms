@@ -32,6 +32,21 @@ collections:
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
+  - name: "programs"
+    label: "Programs"
+    folder: "src/pages/programs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "program-page",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
     label: "Pages"

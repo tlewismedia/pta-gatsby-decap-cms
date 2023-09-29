@@ -5,8 +5,10 @@ title: Library
 image: /img/flavor_wheel.jpg
 ---
 
-library content
+library content test sdfsdf
 
-n﻿ow a pic
+,more content
+
+h﻿owbout an image
 
 ![](/img/coffee-gear.png)

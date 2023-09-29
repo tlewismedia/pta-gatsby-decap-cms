@@ -5,15 +5,9 @@ featuredimage: /img/flavor_wheel.jpg
 title: Library
 image: /img/flavor_wheel.jpg
 ---
-library content
-
-
-
-
+library content test
 
 ,more content
-
-
 
 h﻿owbout an image
 

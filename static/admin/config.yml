@@ -42,10 +42,26 @@ collections:
           label: "Template Key",
           name: "templateKey",
           widget: "hidden",
-          default: "program-page",
+          default: "generic-page",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Featured Image", name: "image", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "get-involved"
+    label: "Get Involved"
+    folder: "src/pages/get-involved"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "select",
+          options: ["generic-page", "special"],
+          default: "generic-page",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Featured Image", name: "image", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
@@ -259,3 +275,16 @@ collections:
                   },
                 ],
             }
+      - file: "src/pages/get-involved/involved-special.md"
+        label: "Involved Special"
+        name: "involved-special"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "involved-special-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

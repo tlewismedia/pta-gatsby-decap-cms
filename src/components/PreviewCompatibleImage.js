@@ -8,6 +8,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   const { alt = "", childImageSharp, image } = imageInfo;
 
   if (!!image && !!image.childImageSharp) {
+    console.log("!!image && !!image.childImageSharp");
     return (
       <GatsbyImage
         image={image.childImageSharp.gatsbyImageData}
@@ -16,6 +17,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
       />
     );
   } else if (!!childImageSharp) {
+    console.log("!!childImageSharp");
     return (
       <GatsbyImage
         image={childImageSharp.gatsbyImageData}
@@ -25,6 +27,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
     );
     // for Netlify CMS
   } else if (image) {
+    console.log("image");
     return <img style={{ imageStyle }} src={image} alt={alt} />;
   } else {
     return null;

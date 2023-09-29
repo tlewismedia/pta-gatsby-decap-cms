@@ -1,7 +1,6 @@
 ---
 templateKey: generic-page
-title: My title of a program
+title: Volunteer
 image: /img/blog-index.jpg
 ---
-
 t﻿est

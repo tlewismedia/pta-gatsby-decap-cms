@@ -6,3 +6,15 @@ title: Library
 image: /img/flavor_wheel.jpg
 ---
 library content
+
+
+
+
+
+,more content
+
+
+
+h﻿owbout an image
+
+![](/img/coffee-gear.png)

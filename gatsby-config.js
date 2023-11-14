@@ -8,11 +8,6 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sass",
-      options: {
-        sassOptions: {
-          indentedSyntax: true,
-        },
-      },
     },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
@@ -43,7 +38,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-relative-images',
+          "gatsby-remark-relative-images",
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -72,7 +67,7 @@ module.exports = {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ['/bulma-style.sass'], // applies purging only on the bulma css file
+        purgeOnly: ["/bulma-style.sass"], // applies purging only on the bulma css file
         printRejected: true,
       },
     }, // must be after other CSS plugins

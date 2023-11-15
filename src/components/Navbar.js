@@ -21,8 +21,39 @@ const Navbar = () => {
           }`}
         > */}
         <div id="navMenu" className="nav__links">
-          <Link className="nav__link" to="/about">
+          <Link className="nav__link" to="/get-involved">
             Get Involved >
+            <div className="nav__sub-links">
+              <div className="nav__sub-link">
+                <Link
+                  className="nav__sub-link"
+                  to="/get-involved/become-a-member"
+                >
+                  Become a Member
+                </Link>
+              </div>
+
+              <div className="nav__sub-link">
+                <Link className="nav__sub-link" to="/get-involved/fundraise">
+                  Fundraise
+                </Link>
+              </div>
+
+              <div className="nav__sub-link">
+                <Link className="nav__sub-link" to="/get-involved/volunteer">
+                  Volunteer
+                </Link>
+              </div>
+
+              <div className="nav__sub-link">
+                <Link
+                  className="nav__sub-link"
+                  to="/get-involved/community-meetings"
+                >
+                  Community Meetings
+                </Link>
+              </div>
+            </div>
           </Link>
 
           <Link className="nav__link" to="/products">

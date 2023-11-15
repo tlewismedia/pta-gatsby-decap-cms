@@ -13,7 +13,23 @@
 .nav__links
   display: flex
 
+.nav__sub-links
+  background: black
+  padding: 20px
+  display: none
+  z-index: 1
+
 .nav__link
   padding: 60px 10px
   color: white
   text-decoration: none
+  position: relative
+
+  &:hover
+    .nav__sub-links
+      display: block
+      position: absolute
+      top: 100px
+
+.nav__sub-link
+  padding: 20px

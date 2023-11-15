@@ -3,6 +3,8 @@ import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import SubHeader from "../components/SubHeader";
+import "../style/generic-page.sass";
 
 export const GenericPageTemplate = ({
   image,
@@ -22,11 +24,12 @@ export const GenericPageTemplate = ({
 
   const PostContent = contentComponent || Content;
 
+  console.log("In GenericPageTemplate *************");
+  console.log("content");
+  console.log(content);
   return (
-    <section className="section">
-      {title}
-
-      <img src={imgSrc} />
+    <section className="generic_page">
+      <SubHeader title={title} image={imgSrc} />
 
       <PostContent content={content} />
     </section>
@@ -38,7 +41,6 @@ const GenericPage = ({ data }) => {
 
   return (
     <Layout>
-      OUTER PRGROMA TEMPLATE
       <GenericPageTemplate
         title={post.frontmatter.title}
         image={post.frontmatter.image}

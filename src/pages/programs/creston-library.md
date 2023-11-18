@@ -1,9 +1,10 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: CRESTON LIBRARY
+title: Creston Library
 image: /img/pexels-engin-akyurt-2943603.jpg
 ---
+
 ## MEET OUR TEACHER LIBRARIAN
 
 ![](https://lh5.googleusercontent.com/LB58LG0bIUs4WWZV5oFa1S4-oPPp4liflb7NsDFEdlAO2BeiBYzPmkBRC-_Vw6-kD6GMSfdG9TOw0YxAbg-q2iQ6p-dFJPYj1OtYR5GGvJH24Hq2bTpi08VU06szN3aHRg=w1280)

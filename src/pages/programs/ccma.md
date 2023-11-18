@@ -1,22 +1,19 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: "CCMA "
+title: "CCMA"
 image: /img/flavor_wheel.jpg
 ---
+
 ## WHAT IS CCMA?
 
 [Creston Community Mutual Aid (CCMA)](https://m7scym5f.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.crestoncommunitymutualaid.com%2F/1/0100018a9ac4233a-97da9d82-3230-4c58-b441-ec1b4f61264d-000000/I7SQiw8hLZiymjw3-2qhtB_9xG0=339) is a volunteer-led organization formed in 2021 to support the needs of families within the Creston school community. Our hope is for a more equitable, sustainable, and connected community. We believe this starts with everyone being able to meet their basic needs.
-
-
 
 ## CCMA vs. PTA
 
 A key difference between CCMA and Creston PTA is how we distribute funds. Creston PTA uses funds to support the school and student body as a whole and, therefore, can’t distribute funds to individual families. Donations to CCMA are directly distributed to families who need help with expenses like rent, utilities, and childcare.
 
-***During 2022-2023, CCMA distributed nearly $10,000 in direct financial assistance to Creston families!***
-
-
+**_During 2022-2023, CCMA distributed nearly $10,000 in direct financial assistance to Creston families!_**
 
 ## REQUEST ASSISTANCE
 
@@ -26,9 +23,9 @@ If you need help, please reach out! You can [request direct financial aid](https
 
 You can make monetary donations to CCMA through the following platforms:
 
-* Venmo - @CrestonMutualAid
-* CashApp - $CrestonMutualAid
-* PayPal – [CrestonMutualAid@gmail.com](mailto:CrestonMutualAid@gmail.com)
+- Venmo - @CrestonMutualAid
+- CashApp - $CrestonMutualAid
+- PayPal – [CrestonMutualAid@gmail.com](mailto:CrestonMutualAid@gmail.com)
 
 ## JOIN CCMA
 

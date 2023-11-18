@@ -1,24 +1,25 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: CRESTON SUN
+title: Creston Sun
 image: /img/flavor_wheel.jpg
 ---
+
 ## WHAT IS SUN?
 
-SUN (Schools Uniting Neighborhoods) Schools are full-service neighborhood hubs where the school and partners from across the community come together to make sure kids and families have what they need to be successful - in school and in life. 
+SUN (Schools Uniting Neighborhoods) Schools are full-service neighborhood hubs where the school and partners from across the community come together to make sure kids and families have what they need to be successful - in school and in life.
 
 Learn more about SUN Schools>
 
 ## SUN SCHOOLS PROVIDE:
 
-* FREE After school enrichment classes
-* Homework and reading help
-* Cultural and community building events
+- FREE After school enrichment classes
+- Homework and reading help
+- Cultural and community building events
 
 ## AFTER SCHOOL ENRICHMENT CLASSES
 
-Creston SUN enrichment classes are FREE and available to all students. Your donations are tax deductible and make it possible for us to offer a variety of classes and serve more Creston families. Classes start in mid-October. Registration is per term and spots are limited. Applications will go home with your child about a week before the start of the term. 
+Creston SUN enrichment classes are FREE and available to all students. Your donations are tax deductible and make it possible for us to offer a variety of classes and serve more Creston families. Classes start in mid-October. Registration is per term and spots are limited. Applications will go home with your child about a week before the start of the term.
 
 ## CRESTON SUN REGISTRATION FORM:
 

@@ -3,6 +3,7 @@ import uploadcare from "netlify-cms-media-library-uploadcare";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 
 import AboutPagePreview from "./preview-templates/AboutPagePreview";
+import NewsPagePreview from "./preview-templates/NewsPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
 import GenericPagePreview from "./preview-templates/GenericPagePreview";
 import ProductPagePreview from "./preview-templates/ProductPagePreview";
@@ -13,6 +14,7 @@ CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
+CMS.registerPreviewTemplate("news", NewsPagePreview);
 CMS.registerPreviewTemplate("products", ProductPagePreview);
 CMS.registerPreviewTemplate("programs", GenericPagePreview);
 CMS.registerPreviewTemplate("get-involved", GenericPagePreview);

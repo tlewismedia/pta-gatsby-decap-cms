@@ -24,6 +24,8 @@ export const IndexPageTemplate = ({
 
   return (
     <div className="home">
+      <div className="nav__fade"></div>
+
       <div className="home__hero">
         <div className="home__hero-container">
           <div className="home__hero-left">
@@ -32,10 +34,14 @@ export const IndexPageTemplate = ({
               <br /> we soar
             </div>
 
-            <button className="btn">Learn more about the PTA ></button>
+            <Link className="btn" to="/about">
+              Learn more about the PTA
+            </Link>
           </div>
 
-          <div className="home__hero-right">kids here</div>
+          <div className="home__hero-right">
+            <img src="/img/kids.png" alt="" />
+          </div>
         </div>
       </div>
 
@@ -47,28 +53,28 @@ export const IndexPageTemplate = ({
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 1" />
               <p>
-                <a href="page1.html">Volunteer ></a>
+                <a href="page1.html">Volunteer </a>
               </p>
             </div>
 
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 2" />
               <p>
-                <a href="page2.html">Fundraisers ></a>
+                <a href="page2.html">Fundraisers </a>
               </p>
             </div>
 
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 3" />
               <p>
-                <a href="page3.html">Community Meetings ></a>
+                <a href="page3.html">Community Meetings </a>
               </p>
             </div>
 
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 4" />
               <p>
-                <a href="page4.html">Become a PTA member ></a>
+                <a href="page4.html">Become a PTA member </a>
               </p>
             </div>
           </div>
@@ -77,9 +83,9 @@ export const IndexPageTemplate = ({
 
       <div className="home__donate">
         <div className="home__don_container">
-          <div className="home__don_text">DONATE TO CRESTON PTA</div>
-          <button className="btn">DONATE</button>
-          <button className="btn btn-alt">BECOME A MONTHLY DONER</button>
+          <div className="home__don_text">Donate to Creston PTA</div>
+          <button className="btn">Donate</button>
+          <button className="btn btn-alt">Become a Monthly Doner</button>
         </div>
       </div>
     </div>

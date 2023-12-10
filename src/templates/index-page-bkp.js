@@ -4,11 +4,9 @@ import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
-import PageRowContainer from "../components/PageRowContainer";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
-import "../style/home.sass";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -23,65 +21,55 @@ export const IndexPageTemplate = ({
   const heroImage = getImage(image) || image;
 
   return (
-    <div className="home">
-      <div className="home__hero">
-        <div className="home__hero-container">
-          <div className="home__hero-left">
-            <div className="home__tagline">
-              Together
-              <br /> we soar
-            </div>
-
-            <button className="btn">Learn more about the PTA ></button>
-          </div>
-
-          <div className="home__hero-right">kids here</div>
-        </div>
-      </div>
-
-      <div className="home__support">
-        <div className="home__sup_container">
-          <div className="home__sup_heading">Support our School</div>
-
-          <div className="home__sup_grid">
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 1" />
-              <p>
-                <a href="page1.html">Volunteer ></a>
-              </p>
-            </div>
-
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 2" />
-              <p>
-                <a href="page2.html">Fundraisers ></a>
-              </p>
-            </div>
-
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 3" />
-              <p>
-                <a href="page3.html">Community Meetings ></a>
-              </p>
-            </div>
-
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 4" />
-              <p>
-                <a href="page4.html">Become a PTA member ></a>
-              </p>
+    <div>
+      <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      <section className="section section--gradient">
+        <div className="container">
+          <div className="section">
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <div className="content">
+                  <div className="content">
+                    <div className="tile">
+                      <h1 className="title">{mainpitch.title}</h1>
+                    </div>
+                    <div className="tile">
+                      <h3 className="subtitle">{mainpitch.description}</h3>
+                    </div>
+                  </div>
+                  <div className="columns">
+                    <div className="column is-12">INDEX TEMPALTE
+                      <h3 className="has-text-weight-semibold is-size-2">
+                        {heading}
+                      </h3>
+                      <p>{description}</p>
+                    </div>
+                  </div>
+                  <Features gridItems={intro.blurbs} />
+                  <div className="columns">
+                    <div className="column is-12 has-text-centered">
+                      <Link className="btn" to="/products">
+                        See all products
+                      </Link>
+                    </div>
+                  </div>
+                  <div className="column is-12">
+                    <h3 className="has-text-weight-semibold is-size-2">
+                      Latest stories
+                    </h3>
+                    <BlogRoll />
+                    <div className="column is-12 has-text-centered">
+                      <Link className="btn" to="/blog">
+                        Read more
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-
-      <div className="home__donate">
-        <div className="home__don_container">
-          <div className="home__don_text">DONATE TO CRESTON PTA</div>
-          <button className="btn">DONATE</button>
-          <button className="btn btn-alt">BECOME A MONTHLY DONER</button>
-        </div>
-      </div>
+      </section>
     </div>
   );
 };

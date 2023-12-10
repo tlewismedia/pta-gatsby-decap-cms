@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-// import logo from "../img/pta-logo.png";
 import "../style/navbar.sass";
 
 const Navbar = () => {
@@ -9,9 +7,8 @@ const Navbar = () => {
 
   return (
     <nav className="nav" role="navigation" aria-label="main-navigation">
-      <div className="nav__container">
-        <Link to="/" title="Logo">
-          <img src="../img/pta-logo.png" alt="Kaldi" />
+        <Link to="/" title="Logo" className="nav__home_button">
+          <img src="../img/pta-logo.svg" alt="Creston PTA Logo" />
         </Link>
 
         {/* <ul
@@ -22,7 +19,7 @@ const Navbar = () => {
         > */}
         <div id="navMenu" className="nav__links">
           <Link className="nav__link" to="/get-involved">
-            Get Involved >
+            Support our School >
             <div className="nav__sub-links">
               <div className="nav__sub-link">
                 <Link
@@ -56,12 +53,8 @@ const Navbar = () => {
             </div>
           </Link>
 
-          <Link className="nav__link" to="/products">
-            About Us >
-          </Link>
-
           <Link className="nav__link" to="/blog">
-            Programs and Resources
+            Programs and Resources >
             <div className="nav__sub-links">
               <div className="nav__sub-link">
                 <Link
@@ -101,15 +94,19 @@ const Navbar = () => {
             </div>
           </Link>
 
-          <Link className="nav__link" to="/contact">
-            News
+          <Link className="nav__link" to="/products">
+            About Us >
           </Link>
+
+
+          {/* <Link className="nav__link" to="/contact">
+            News
+          </Link> */}
 
           <Link className="nav__link" to="/contact/examples">
             Contact
           </Link>
         </div>
-      </div>
     </nav>
   );
 };

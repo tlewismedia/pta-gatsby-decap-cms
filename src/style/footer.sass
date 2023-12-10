@@ -1,0 +1,40 @@
+@use "./variables" as *
+@use "./mixins" as *
+
+footer
+  color: white
+
+  a
+    color: white
+    text-decoration: none
+  ul
+    list-style-type: none 
+
+.foot__top
+  background: darken($primary, 5)
+  padding: 40px
+
+.foot__bottom
+  background: darken($primary, 10)
+  padding: 40px 0px
+  
+.foot__container
+  @include page-row-container
+
+.foot__support
+  background: rgba(255,255,255,.2)
+  padding: 20px
+  width: 50%
+
+.foot__support_lists
+  display: flex
+  padding-bottom: 80px
+
+  ul:nth-child(2)
+    margin-left: 10%
+
+.foot__right_lists
+  width: 50%
+
+  ul
+    margin: 78px 137px

@@ -1,0 +1,104 @@
+@use "./variables" as *
+@use "./mixins" as *
+
+
+// HERO **********************************
+.home__hero
+  background: lightblue
+  
+
+.home__hero-container
+  @include page-row-container
+  display: flex
+  width: 100%
+  padding-top: 41px
+  padding-bottom: 103px
+
+.home__tagline
+  font-family: 'Darumadrop One', sans-serif
+  font-size: 110px
+  line-height: .8
+  margin-bottom: 80px
+
+.home__hero-left
+  width: 50%
+
+.home__hero-right
+  width: 50%
+  display: flex
+  justify-content: center
+  align-items: center
+
+
+
+// SUPPORT **********************************
+
+.home__sup_container
+  @include page-row-container
+  flex-direction: column
+
+.home__sup_heading
+  color: $primary
+  margin-top: 80px
+  font-size: 36px
+  font-family: 'Darumadrop One', sans-serif
+
+.home__sup_grid
+  display: grid
+  grid-template-columns: repeat(2, 1fr)
+  grid-template-rows: repeat(2, 1fr)
+  gap: 20px
+  justify-content: center
+  align-content: center
+  margin: auto
+
+.home__sup_grid_item
+  display: flex
+  flex-direction: column
+  align-items: center
+  text-align: center
+  margin: 50px 80px
+
+.home__sup_grid_item img
+  border-radius: 50%
+  width: 260px // Adjust the size of the circular image */
+  height: 260px // Adjust the size of the circular image */
+  object-fit: cover
+  margin-bottom: 10px
+
+.home__sup_grid_item a
+  color: $secondary
+  text-decoration: none
+  font-weight: 800
+
+// DONATE **********************************
+
+.home__donate
+  background: $primary
+
+.home__don_container
+  @include page-row-container
+  padding: 65px 80px
+  align-items: center
+
+
+.home__don_text
+  font-size: 32px
+  font-wieght: 800
+  color: white
+
+
+// COMMON (move out) ****************
+.btn
+  background: $secondary
+  padding: 17px 27px
+  border: none
+  color: white
+  font-size: 18px
+  font-weight: 700
+  border-radius: 8px
+  border-bottom: 5px solid #b36338
+
+.btn-alt
+  background: white
+  color: $secondary

@@ -1,14 +1,11 @@
-.nav
-  background: #052739
-  color: white
+@use "./variables" as *
+@use "./mixins" as *
 
-.nav__container
-  width: 100%
-  max-width: 1040px
-  margin: auto
-  display: flex
-  justify-content: space-between
-  // padding: 20px 0
+// a, a:visited, a:hover, a:focus
+
+.nav
+  @include page-row-container
+  background: white
 
 .nav__links
   display: flex
@@ -19,14 +16,22 @@
   display: none
   z-index: 1
 
-  a
-    color: lightblue
+  // a, a:visited, a:hover, a:focus
+  //   color: $primary
 
 .nav__link
-  padding: 60px 10px
-  color: white
+  padding: 66px 32px
   text-decoration: none
   position: relative
+  color: $primary
+  font-weight: bold
+  font-size: 16px
+
+  &:first-child
+    color: $secondary
+
+  &:last-child
+    padding-right: 0
 
   &:hover
     .nav__sub-links
@@ -36,3 +41,6 @@
 
 .nav__sub-link
   padding: 20px
+
+.nav__home_button
+  margin-top: 44px

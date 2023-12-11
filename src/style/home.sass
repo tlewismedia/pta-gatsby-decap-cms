@@ -7,16 +7,17 @@
   // transform-style: preserve-3d
   // z-index: -1
 
-.nav__fade
+
+// HERO **********************************
+.hero__fade
   background: rgb(255,255,255)
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%)
   position: absolute
   left: 0
   top: 0
   right: 0
-  height: 60px
+  height: 181px
 
-// HERO **********************************
 .home__hero
   background: lightblue
   background: url('/img/sky.png')
@@ -35,7 +36,7 @@
   @include page-row-container
   display: flex
   width: 100%
-  padding-top: 41px
+  padding-top: 116px
   padding-bottom: 103px
 
 .home__tagline
@@ -44,6 +45,7 @@
   line-height: .8
   margin-bottom: 80px
   color: $primary
+  text-shadow: 0 6px 0 #103447
 
 .home__hero-left
   width: 50%
@@ -53,6 +55,16 @@
   display: flex
   justify-content: center
   align-items: center
+  position: relative
+
+.home__eagle
+  position: absolute
+  left: -71px
+  top: 47px
+  opacity: .5
+
+.home_kids
+  margin-right: -89px
 
 
 
@@ -64,30 +76,30 @@
 
 .home__sup_heading
   color: $primary
-  margin-top: 80px
+  margin: 35px 0
   font-size: 36px
   font-family: 'Darumadrop One', sans-serif
 
 .home__sup_grid
   display: grid
-  grid-template-columns: repeat(2, 1fr)
-  grid-template-rows: repeat(2, 1fr)
+  grid-template-columns: repeat(4, 1fr)
+  grid-template-rows: repeat(1, 1fr)
   gap: 20px
   justify-content: center
   align-content: center
   margin: auto
+  width: 100%
 
 .home__sup_grid_item
   display: flex
   flex-direction: column
   align-items: center
   text-align: center
-  margin: 50px 80px
 
 .home__sup_grid_item img
   border-radius: 50%
-  width: 260px // Adjust the size of the circular image */
-  height: 260px // Adjust the size of the circular image */
+  width: 160px // Adjust the size of the circular image */
+  height: 160px // Adjust the size of the circular image */
   object-fit: cover
   margin-bottom: 10px
 
@@ -123,6 +135,7 @@
   font-weight: 700
   border-radius: 8px
   border-bottom: 5px solid #b36338
+  text-decoration: none
 
 .btn-alt
   background: white
@@ -157,6 +170,8 @@
   .home__sup_grid
     // background: yellow
     gap: 20px
+    grid-template-columns: repeat(2, 1fr)
+    grid-template-rows: repeat(2, 1fr)
     // grid-template-columns: repeat(1, 1fr)
     // grid-template-rows: repeat(4, 1fr)
 

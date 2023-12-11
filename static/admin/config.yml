@@ -32,6 +32,21 @@ collections:
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
+  # - name: "generic-pages"
+  #   label: "Generic Pages"
+  #   folder: "src/pages/generic"
+  #   create: true
+  #   slug: "{{slug}}"
+  #   fields:
+  #     - {
+  #         label: "Template Key",
+  #         name: "templateKey",
+  #         widget: "hidden",
+  #         default: "generic-page",
+  #       }
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Featured Image", name: "image", widget: image }
+  #     - { label: "Body", name: "body", widget: "markdown" }
   - name: "programs"
     label: "Programs"
     folder: "src/pages/programs"
@@ -65,7 +80,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
-    label: "Pages"
+    label: "Special Pages"
     files:
       - file: "src/pages/index.md"
         label: "Landing Page"
@@ -160,10 +175,11 @@ collections:
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "about-page",
+              default: "generic-page",
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Featured Image", name: "image", widget: image }
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

@@ -24,7 +24,7 @@ export const IndexPageTemplate = ({
 
   return (
     <div className="home">
-      <div className="nav__fade"></div>
+      <div className="hero__fade"></div>
 
       <div className="home__hero">
         <div className="home__hero-container">
@@ -40,7 +40,9 @@ export const IndexPageTemplate = ({
           </div>
 
           <div className="home__hero-right">
-            <img src="/img/kids.png" alt="" />
+
+            <img src="/img/kids.png" alt="" className="home__kids" />
+            <img src="/img/eagle.png" alt="" className="home__eagle" />
           </div>
         </div>
       </div>

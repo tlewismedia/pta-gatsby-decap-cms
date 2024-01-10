@@ -62,23 +62,19 @@ const Footer = () => {
           <div className="foot__right_lists">
             <ul>
               <li>
-                <Link to="/about">
-                  About Us
-                </Link>
+                <Link to="/about">About Us</Link>
               </li>
               <li>
-                <Link to="/contact/examples">
-                  Contact
-                </Link>
+                <Link to="/contact/examples">Contact</Link>
               </li>
             </ul>
 
             <ul>
               <li>
-                <a href="">Terms and Conditions - TODO</a>
+                <Link to="/terms">Terms and Conditions</Link>
               </li>
               <li>
-                <a href="">Privacy Policy - TODO</a>
+                <Link to="/privacy">Privacy Policy</Link>
               </li>
             </ul>
           </div>

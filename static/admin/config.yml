@@ -180,6 +180,32 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Featured Image", name: "image", widget: image }
+      - file: "src/pages/privacy/index.md"
+        label: "Privacy"
+        name: "privacy"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "generic-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Featured Image", name: "image", widget: image }
+      - file: "src/pages/terms/index.md"
+        label: "Terms"
+        name: "terms"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "generic-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Featured Image", name: "image", widget: image }
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

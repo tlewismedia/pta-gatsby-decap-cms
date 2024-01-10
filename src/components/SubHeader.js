@@ -7,7 +7,9 @@ const SubHeader = ({ title, image }) => {
       className="sub_header"
       style={{ backgroundImage: `url('${image}')`, backgroundSize: "cover" }}
     >
-      {title}
+      <div className="sub_header_overlay">
+        {title}
+      </div>
     </div>
   );
 };

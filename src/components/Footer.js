@@ -19,31 +19,41 @@ const Footer = () => {
             <div className="foot__support_lists">
               <ul>
                 <li>
-                  <a href="">Volunteer</a>
+                  <Link className="" to="/get-involved/volunteer">
+                    Volunteer
+                  </Link>
                 </li>
                 <li>
-                  <a href="">PPS Background Check </a>
+                  <a href="">PPS Background Check - TODO</a>
                 </li>
                 <li>
-                  <a href="">Fundraise</a>
+                  <Link className="" to="/get-involved/fundraise">
+                    Fundraise
+                  </Link>
                 </li>
                 <li>
-                  <a href="">Advocate for kids</a>
+                  <a href="">Advocate for kids - TODO</a>
                 </li>
               </ul>
 
               <ul>
                 <li>
-                  <a href="">Donate to PTA</a>
+                  <Link className="" to="/get-involved/community-meetings">
+                    Donate to PTA
+                  </Link>
                 </li>
                 <li>
-                  <a href="">Become a member</a>
+                  <Link className="" to="/programs/after-school-care">
+                    After School Care
+                  </Link>
                 </li>
                 <li>
-                  <a href="">Community Meetings</a>
+                  <Link className="" to="/get-involved/community-meetings">
+                    Community Meetings
+                  </Link>
                 </li>
                 <li>
-                  <a href="">Shop Creston Store</a>
+                  <a href="">Shop Creston Store - TODO</a>
                 </li>
               </ul>
             </div>
@@ -52,19 +62,23 @@ const Footer = () => {
           <div className="foot__right_lists">
             <ul>
               <li>
-                <a href="">About Us</a>
+                <Link to="/about">
+                  About Us
+                </Link>
               </li>
               <li>
-                <a href="">Contact Us</a>
+                <Link to="/contact/examples">
+                  Contact
+                </Link>
               </li>
             </ul>
 
             <ul>
               <li>
-                <a href="">Terms and Conditions</a>
+                <a href="">Terms and Conditions - TODO</a>
               </li>
               <li>
-                <a href="">Privacy Policy</a>
+                <a href="">Privacy Policy - TODO</a>
               </li>
             </ul>
           </div>

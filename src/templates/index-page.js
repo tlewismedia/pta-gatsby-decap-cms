@@ -35,12 +35,11 @@ export const IndexPageTemplate = ({
             </div>
 
             <Link className="btn" to="/about">
-              Learn more about the PTA
+              Learn more about PTA
             </Link>
           </div>
 
           <div className="home__hero-right">
-
             <img src="/img/kids.png" alt="" className="home__kids" />
             <img src="/img/eagle.png" alt="" className="home__eagle" />
           </div>
@@ -55,28 +54,36 @@ export const IndexPageTemplate = ({
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 1" />
               <p>
-                <a href="page1.html">Volunteer </a>
+                <Link className="" to="/get-involved/volunteer">
+                  Volunteer
+                </Link>
               </p>
             </div>
 
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 2" />
               <p>
-                <a href="page2.html">Fundraisers </a>
+                <Link className="" to="/get-involved/fundraise">
+                  Fundraise
+                </Link>
               </p>
             </div>
 
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 3" />
               <p>
-                <a href="page3.html">Community Meetings </a>
+                <Link className="" to="/get-involved/community-meetings">
+                  Community Meetings
+                </Link>
               </p>
             </div>
 
             <div className="home__sup_grid_item">
               <img src="http://placehold.it/260x260" alt="Person 4" />
               <p>
-                <a href="page4.html">Become a PTA member </a>
+                <Link className="" to="/get-involved/become-a-member">
+                  PTA Membership
+                </Link>
               </p>
             </div>
           </div>

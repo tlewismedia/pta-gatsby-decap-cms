@@ -51,41 +51,25 @@ export const IndexPageTemplate = ({
           <div className="home__sup_heading">Support our School</div>
 
           <div className="home__sup_grid">
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 1" />
-              <p>
-                <Link className="" to="/get-involved/volunteer">
-                  Volunteer
-                </Link>
-              </p>
-            </div>
+            <Link className="home__sup_grid_item" to="/get-involved/volunteer">
+              <img src="/img/volunteer.svg" alt="Person 1" />
+              Volunteer
+            </Link>
 
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 2" />
-              <p>
-                <Link className="" to="/get-involved/fundraise">
-                  Fundraise
-                </Link>
-              </p>
-            </div>
-
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 3" />
-              <p>
-                <Link className="" to="/get-involved/community-meetings">
+            <Link className="home__sup_grid_item" to="/get-involved/fundraise">
+              <img src="/img/fundraise.svg" alt="Person 2" />
+              Fundraise
+            </Link>
+  
+            <Link className="home__sup_grid_item" to="/get-involved/community-meetings">
+              <img src="/img/community-meetings.svg" alt="Person 3" />
                   Community Meetings
-                </Link>
-              </p>
-            </div>
-
-            <div className="home__sup_grid_item">
-              <img src="http://placehold.it/260x260" alt="Person 4" />
-              <p>
-                <Link className="" to="/get-involved/become-a-member">
-                  PTA Membership
-                </Link>
-              </p>
-            </div>
+            </Link>
+             
+            <Link className="home__sup_grid_item" to="/get-involved/become-a-member">
+              <img src="/img/membership.svg" alt="Person 4" />
+              PTA Membership
+            </Link>
           </div>
         </div>
       </div>

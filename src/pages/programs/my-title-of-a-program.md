@@ -1,7 +1,8 @@
 ---
 templateKey: generic-page
-title: My title of a program
-image: /img/blog-index.jpg
+title: Learning Gardens
+image: /img/istock-1427848310.jpg
 ---
+## GROW PORTLAND GARDEN SCHOOL PROGRAM
 
-t﻿est
+Thanks to the work of the PTA Garden & Sustainability Committee, Creston offers a [Grow Portland Garden School Program](https://www.growportland.org/program-cirriculum-overview)!

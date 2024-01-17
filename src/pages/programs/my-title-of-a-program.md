@@ -1,7 +1,7 @@
 ---
 templateKey: generic-page
 title: Learning Gardens
-image: /img/istock-1427848310.jpg
+image: /img/elaine-casap-qghgdbbsnm8-unsplash.jpg
 ---
 ## GROW PORTLAND GARDEN SCHOOL PROGRAM
 

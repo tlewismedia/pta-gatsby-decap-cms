@@ -40,4 +40,8 @@ Creston Community Mutual Aid (CCMA) is a volunteer-led organization that collect
 
 Learn more about [CCMA.](https://inquisitive-lolly-d1ee77.netlify.app/programs/ccma)
 
-![photo of clothing donations](/img/maude-frederique-lavoie-edstj4kcucw-unsplash.jpg)
+## **COMMUNITY CLOTHING CLOSET**
+
+![photo of clothing donations](/img/jeans.jpg)
+
+The Portland Council PTA sponsors a clothing closet that is available for any PPS student who needs clothing support. More information about the program, how to volunteer, and how to donate can be found on the [Portland Council PTA website](https://portlandcouncilpta.org/pta-clothing-center).

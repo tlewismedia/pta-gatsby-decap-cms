@@ -34,7 +34,7 @@ Your cash contribution to Creston School PTA is tax deductible. This is the most
 
 ## FUNDRAISING EVENTS
 
-Find out about upcoming fundraising events on the <PTA Calendar>
+Find out about upcoming fundraising events on the [PTA Google Calendar.](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
 
 ## BOTTLEDROP (BLUE BAG) CAN DONATIONS
 

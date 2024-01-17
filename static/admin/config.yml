@@ -62,6 +62,21 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Featured Image", name: "image", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "about"
+    label: "About"
+    folder: "src/pages/about"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "generic-page",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Featured Image", name: "image", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "get-involved"
     label: "Get Involved"
     folder: "src/pages/get-involved"

@@ -1,8 +1,8 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: "CCMA"
-image: /img/flavor_wheel.jpg
+title: CCMA
+image: /img/ccma.jpg
 ---
 
 ## WHAT IS CCMA?

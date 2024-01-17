@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: Food and Family Resources
-image: /img/flavor_wheel.jpg
+image: /img/food-and-family-resources-urban-gleaners-.jpg
 ---
 
 ## WE’RE HERE TO HELP!

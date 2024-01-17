@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Fundraise
-image: /img/apple-touch-icon.png
+image: /img/fundraise-blue-bags.jpeg
 ---
 
 ## PTA RAISES FUNDS FOR:

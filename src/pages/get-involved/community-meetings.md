@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Community Meetings
-image: /img/blog-index.jpg
+image: /img/community-meetings2.49-pm.png
 ---
 
 ## YOU’RE INVITED!

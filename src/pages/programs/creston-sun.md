@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: Creston Sun
-image: /img/flavor_wheel.jpg
+image: /img/creston-sun2.jpg
 ---
 
 ## WHAT IS SUN?

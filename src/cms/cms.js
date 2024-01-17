@@ -19,5 +19,6 @@ CMS.registerPreviewTemplate("privacy", GenericPagePreview);
 CMS.registerPreviewTemplate("news", NewsPagePreview);
 CMS.registerPreviewTemplate("products", ProductPagePreview);
 CMS.registerPreviewTemplate("programs", GenericPagePreview);
+CMS.registerPreviewTemplate("about", GenericPagePreview);
 CMS.registerPreviewTemplate("get-involved", GenericPagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);

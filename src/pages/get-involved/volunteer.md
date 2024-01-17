@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Volunteer
-image: /img/apple-touch-icon.png
+image: /img/istock-1372606314.jpg
 ---
 
 ## “MANY HANDS MAKE LIGHT WORK”

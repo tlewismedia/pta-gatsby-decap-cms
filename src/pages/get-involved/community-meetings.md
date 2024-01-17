@@ -10,7 +10,7 @@ Join us at our next community meeting! Everyone is encouraged to attend regardle
 
 Learn more about [PTA MEMBERSHIP >](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member)
 
-Find out about our next meeting on the PTA GOOGLE CALENDAR.
+Find out about our next meeting on the [PTA GOOGLE CALENDAR.]([https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing))
 
 ## MEETING TOPICS INCLUDE:
 

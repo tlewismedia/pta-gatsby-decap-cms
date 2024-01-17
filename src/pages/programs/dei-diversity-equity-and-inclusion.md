@@ -1,8 +1,8 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: DEI
-image: /img/untitled-design.png
+title: Diversity Equity and Inclusion
+image: /img/istock-1255190243.jpg
 ---
 We have the opportunity to focus our events through a lens of Diversity, Equity, Inclusion (D.E.I.), and Anti-Racism. While we can still host auctions and carnivals, it’s also good to know that we can organize literacy tutoring programs, and free parent and teacher lectures on Culturally Responsive Trauma Informed Care. As our efforts start to expand to be more inclusive and thoughtful, we created a co-chair board position for D.E.I.  One co-chair position is always available for a BIPOC, so that there are as few barriers to participation, representation, and inclusion as possible. We also know that a lot of the work first needs to come from the people with the privilege.
 

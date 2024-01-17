@@ -23,7 +23,7 @@ Learn more about [PTA membership.](https://inquisitive-lolly-d1ee77.netlify.app/
 
 [Become a member or renew annual membership >](https://creston.memberhub.com/store?category=Memberships)
 
-## WHAT WE DO 
+## WHAT WE DO
 
 You don’t need to have a PTA membership to be involved! Here are some of the many things we do to support the Creston community:
 
@@ -60,7 +60,7 @@ Jan Snyder - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
 
-[PTA GOOGLE CALENDAR]([https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing))
+[PTA GOOGLE CALENDAR](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
 
 ## GIVEBACKS
 

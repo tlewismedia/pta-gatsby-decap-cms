@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: After School Care
-image: /img/afterschool-care-2.jpg
+image: /img/afterschool-care.jpg
 ---
 
 ## CHAMPIONS

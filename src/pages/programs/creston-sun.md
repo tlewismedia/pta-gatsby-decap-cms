@@ -20,6 +20,8 @@ Learn more about [SUN Community Schools.](https://www.multco.us/sun/sun-communit
 
 [Creston SUN FAQ.pdf](<https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/542/Creston%20SUN%20FAQ.pdf>)
 
+![SUN School logo](/img/sun.gif)
+
 ## AFTER SCHOOL ENRICHMENT CLASSES
 
 Creston SUN enrichment classes are FREE and available to all students. Your donations are tax deductible and make it possible for us to offer a variety of classes and serve more Creston families. Classes start in mid-October. Registration is per term and spots are limited. Applications will go home with your child about a week before the start of the term.

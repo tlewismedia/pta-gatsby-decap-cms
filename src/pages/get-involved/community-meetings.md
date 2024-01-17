@@ -18,4 +18,4 @@ Find out about our next meeting on the [PTA GOOGLE CALENDAR.]([https://docs.goog
 * Updates on PTA events, fundraisers and other efforts
 * Guest speakers and presentations on a variety of topics.
 
-Learn more about Creston PTA >
+Learn more about [Creston PTA >](https://inquisitive-lolly-d1ee77.netlify.app/admin/#/collections/about/entries/about-creston-pta)

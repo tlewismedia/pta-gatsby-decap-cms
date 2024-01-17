@@ -4,19 +4,16 @@ templateKey: generic-page
 title: After School Care
 image: /img/afterschool-care.jpg
 ---
-
 ## CHAMPIONS
 
 Champions offers before and after school care as well as summer and school break programs. Our K-6 curriculum is based on the latest educational research. It uses choice and play based activities to focus on building the three critical abilities that have the most impact on a child’s future success:
 
-- Social-emotional skills
-- Executive-function skills
-- Inquiry-based learning
+* Social-emotional skills
+* Executive-function skills
+* Inquiry-based learning
 
-Learn more at the Champions website.
-
-<https://www.discoverchampions.com/our-locations/portland/or/001363>
+Learn more at the [Champions website.](<https://www.discoverchampions.com/our-locations/portland/or/001363>)
 
 ## CRESTON SUN AFTER SCHOOL ENRICHMENT CLASSES
 
-Creston SUN provides free (donations are greatly appreciated) after school enrichment classes starting in mid-October. Registration is per term and spots are limited. Learn more about Creston SUN (link to SUN subpage)>
+Creston SUN provides free (donations are greatly appreciated!) after school enrichment classes starting in mid-October. Registration is per term and spots are limited. Learn more about [Creston SUN.](https://inquisitive-lolly-d1ee77.netlify.app/programs/creston-sun)

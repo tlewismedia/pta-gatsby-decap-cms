@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Volunteer
-image: /img/istock-1372606314.jpg
+image: /img/istock-1427848310.jpg
 ---
 
 ## “MANY HANDS MAKE LIGHT WORK”

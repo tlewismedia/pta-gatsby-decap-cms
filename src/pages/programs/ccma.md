@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: CCMA
-image: /img/ccma.jpg
+image: /img/lina-trochez-ktpkyus3qjs-unsplash.jpg
 ---
 ## WHAT IS CCMA?
 
@@ -13,6 +13,8 @@ Creston Community Mutual Aid (CCMA) is a volunteer-led organization formed in 20
 A key difference between CCMA and Creston PTA is how we distribute funds. Creston PTA uses funds to support the school and student body as a whole and, therefore, can’t distribute funds to individual families. Donations to CCMA are directly distributed to families who need help with expenses like rent, utilities, and childcare.
 
 ***During 2022-2023, CCMA distributed nearly $10,000 in direct financial assistance to Creston families!***
+
+![](/img/ccma.jpg)
 
 ## REQUEST ASSISTANCE
 

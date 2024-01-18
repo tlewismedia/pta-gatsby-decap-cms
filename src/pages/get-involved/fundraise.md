@@ -4,7 +4,7 @@ path: /get-involved
 title: Fundraise
 image: /img/fundraise-blue-bags.jpeg
 ---
-## PTA RAISES FUNDS FOR:
+## PTA RAISES FUNDS FOR: poo
 
 * GROW Portland (garden program)
 * Community building and cultural events

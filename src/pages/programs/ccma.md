@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: CCMA
-image: /img/lina-trochez-ktpkyus3qjs-unsplash.jpg
+image: /img/community-meetings2.jpg
 ---
 ## WHAT IS CCMA?
 
@@ -16,7 +16,11 @@ A key difference between CCMA and Creston PTA is how we distribute funds. Cresto
 
 ## REQUEST ASSISTANCE
 
-If you need help, please reach out! You can [request direct financial aid](https://m7scym5f.r.us-east-1.awstrack.me/L0/https:%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdWDSDuXTB3ln-X_B40FUNxxqfGrWG-SwTjymP9e4SPaVtCAA%2Fviewform%3Ffbclid=IwAR0qXOqb8xa8Knkm7cMgiMK9HzGAIYRmxsHx5Oubnlpg1ceQcEbLM9T83AE/1/0100018a9ac4233a-97da9d82-3230-4c58-b441-ec1b4f61264d-000000/uGegcxnD6iH5NgtnRF-mdXchmBQ=339) or send us an email. Your information will always be kept confidential.
+If you need help, please reach out! Your information will always be kept confidential.
+
+* Complete the [FUNDS request form](https://m7scym5f.r.us-east-1.awstrack.me/L0/https:%2F%2Fdocs.google.com%2Fforms%2Fd%2F19i4RpbFtLp7kFnAQhAHSQ3ebYBlX4fkCuuwkxr7XxBk%2Fedit/1/0100018b4efc55e5-17f59920-31b1-4724-91ee-491d18d8a28b-000000/5d_Q1mrRVeYGFiIr5CkHKnjMnYw=344) for financial assistance.
+* Complete the [ITEMS request form](https://docs.google.com/forms/d/e/1FAIpQLSep_OVmVY9C4MyuTqYNwsuxX2nL5wxyzvfM218OXIk8vgJlFQ/viewform?usp=sf_link) for help obtaining an item.
+* Reach out to us via [**emai**l.](mailto:crestonmutualaid@gmail.com)
 
 ## MAKE A DONATION
 

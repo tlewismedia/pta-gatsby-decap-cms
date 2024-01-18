@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: CCMA
-image: /img/community-meetings2.jpg
+image: /img/fundraise2.jpg
 ---
 ## WHAT IS CCMA?
 

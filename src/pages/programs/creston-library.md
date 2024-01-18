@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: Creston Library
-image: /img/library.jpg
+image: /img/jessica-ruscello-oqsctabgksy-unsplash.jpg
 ---
 ## Welcome to the Creston Library! 
 

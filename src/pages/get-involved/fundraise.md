@@ -38,6 +38,8 @@ Find out about upcoming fundraising events on the [PTA Google Calendar.](https:/
 
 ## BOTTLEDROP (BLUE BAG) CAN DONATIONS
 
+![](/img/fundraise-blue-bags.jpeg)
+
 This has become one of our most successful fundraising efforts!
 
 1. Pick up a special blue bag at one of the weekly library book bag pick ups.

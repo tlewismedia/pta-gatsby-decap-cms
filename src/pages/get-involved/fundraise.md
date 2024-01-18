@@ -4,7 +4,7 @@ path: /get-involved
 title: Fundraise
 image: /img/fundraise-blue-bags.jpeg
 ---
-## PTA RAISES FUNDS FOR: poo
+## PTA RAISES FUNDS FOR: 
 
 * GROW Portland (garden program)
 * Community building and cultural events
@@ -25,6 +25,8 @@ Our goal for 2023-24 is to raise $25,000 and you can help us get there! No matte
 * Shop the [Creston Store >](https://creston.memberhub.com/store?limit=21&live=true)
 
 ## DONATIONS
+
+![](/img/fundraise.jpg)
 
 Your cash contribution to Creston School PTA is tax deductible. This is the most direct and effective way to support our programming and educational enhancements. Consider being a monthly supporter by setting up recurring donations. Set it, forget it, and make a big impact!
 
@@ -47,6 +49,8 @@ This has become one of our most successful fundraising efforts!
 3. Bring full blue bags to any BottleDrop center (closest locations to Creston are Safeway on Powell and Chavez, Trader Joe’s on Chavez, and Hawthorne Fred Meyer), or drop them to Creston-parent-owned business: Cnoc (3370 SE 20th) and we’ll take care of them for you!
 
 ## DINE OUTS
+
+![](/img/fundraise-dine-outs.jpg)
 
 Dine-outs are a great way to support area businesses and earn money for our PTA. We work with local restaurants to select a date and time for a Creston Dine Out and the restaurant gives back a percentage of the profit during that time. Check out this year’s DINE OUT EVENTS >
 

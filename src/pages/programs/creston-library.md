@@ -12,4 +12,4 @@ Learn more on the **[Creston Library Website.](https://sites.google.com/pps.net/
 
 ## MEET OUR TEACHER LIBRARIAN, Ms. Jackie!
 
-<img src="/img/ms.-jackie.jpeg" alt="drawing" style="width:600px; margin: auto; display: block"/>
+<img src="/img/ms.-jackie.jpeg" alt="drawing" style="width:400px; margin: auto; display: block"/>

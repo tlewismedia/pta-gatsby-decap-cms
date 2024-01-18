@@ -14,6 +14,10 @@ A key difference between CCMA and Creston PTA is how we distribute funds. Cresto
 
 ***During 2022-2023, CCMA distributed nearly $10,000 in direct financial assistance to Creston families!***
 
+
+
+![photo of building with graffiti that says love your neighbor](/img/ccma.jpg)
+
 ## REQUEST ASSISTANCE
 
 If you need help, please reach out! Your information will always be kept confidential.
@@ -29,10 +33,6 @@ You can make monetary donations to CCMA through the following platforms:
 * Venmo - @CrestonMutualAid
 * CashApp - $CrestonMutualAid
 * PayPal – [CrestonMutualAid@gmail.com](mailto:CrestonMutualAid@gmail.com)
-
-
-
-![photo of building with graffiti that says love your neighbor](/img/ccma.jpg)
 
 ## JOIN CCMA
 

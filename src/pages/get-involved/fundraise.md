@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Fundraise
-image: /img/fundraise2.jpg
+image: /img/pexels-steve-johnson-1006060.jpg
 ---
 ## PTA RAISES FUNDS FOR:
 
@@ -30,9 +30,7 @@ Our goal for 2023-24 is to raise $25,000 and you can help us get there! No matte
 
 Your cash contribution to Creston School PTA is tax deductible. This is the most direct and effective way to support our programming and educational enhancements. Consider being a monthly supporter by setting up recurring donations. Set it, forget it, and make a big impact!
 
-<MAKE A DONATION >
-
-<BECOME A MONTHLY SUPPORTER>
+[Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://creston.memberhub.com/store?limit=21&live=true&category=Memberships)
 
 ## FUNDRAISING EVENTS
 

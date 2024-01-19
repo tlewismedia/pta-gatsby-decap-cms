@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Fundraise
-image: /img/fundraise-blue-bags.jpeg
+image: /img/fundraise2.jpg
 ---
 ## PTA RAISES FUNDS FOR:
 
@@ -22,7 +22,7 @@ Our goal for 2023-24 is to raise $25,000 and you can help us get there! No matte
 * Donate cans through the BottleDrop program
 * Monthly Dine Out events
 * Passive (free-to-you) fundraising
-* Shop the [Creston Store >](https://creston.memberhub.com/store?limit=21&live=true)
+* Shop the [Creston Store.](https://creston.memberhub.com/store?limit=21&live=true)
 
 ## DONATIONS
 
@@ -65,4 +65,4 @@ Here are ways you can contribute in your day-to-day life with no additional cost
 * BOX TOPS FOR EDUCATION - Remember to scan grocery receipts into the BoxTops4Education App. Select “Creston Elementary School” as the school to support. Learn more about the program and how to sign up [here](https://www.boxtops4education.com/).
 * SHUTTERFLY - [Use this custom link](https://shareasale.com/r.cfm?b=82482&u=2627674&m=12808&urllink=www%2Eshutterfly%2Ecom%2F&afftrack=) when ordering photos, holiday cards etc.
 
-[SHOP THE CRESTON STORE](https://creston.memberhub.com/store?limit=21&live=true)
+Shop the [Creston Store.](https://creston.memberhub.com/store?limit=21&live=true)

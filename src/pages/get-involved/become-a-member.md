@@ -10,7 +10,7 @@ We invite you to join Creston PTA! Members aren’t obligated to attend meetings
 
 ![](/img/why-join-creston-pta.png)
 
-[BECOME A PTA MEMBER >](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member/)
+[Become a PTA Member](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member/)
 
 ## WHERE DOES THE MONEY GO? 
 
@@ -20,4 +20,4 @@ Joining Creston PTA means you are also joining Oregon PTA and National PTA. Memb
 
 [PTA Perks](https://www.oregonpta.org/oregon-pta-membership/member-benefits)
 
-[BECOME A PTA MEMBER >](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member/)
+[Become a PTA Member](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member/)

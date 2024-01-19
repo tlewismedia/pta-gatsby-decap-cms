@@ -40,7 +40,7 @@ Your cash contribution to Creston School PTA is tax deductible. This is the most
 
 ![photo of kid lacing shoes](/img/run-for-eagles.jpg)
 
-Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! Donations are collected on the [Creston Store Website.](https://creston.memberhub.com/store?limit=21&live=true)
+Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! [Donate online through Memberhub.](https://creston.memberhub.com/store?limit=21&live=true)
 
 ![](/img/artboard-1.png)
 

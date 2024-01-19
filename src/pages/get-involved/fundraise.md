@@ -36,15 +36,15 @@ Your cash contribution to Creston School PTA is tax deductible. This is the most
 
 ## FUNDRAISING EVENTS
 
-### Annual Run for the Eagles
+### **Annual Run for the Eagles**
 
 ![photo of kid lacing shoes](/img/run-for-eagles.jpg)
 
 Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! [Donate online through Memberhub.](https://creston.memberhub.com/store?limit=21&live=true)
 
-![](/img/artboard-1.png)
-
 ### Winter Wreath and Spring Plant Sales
+
+![](/img/artboard-1.png)
 
 Take part in our November Wreath Sale and Spring Plant Sale and help raise funds for the PTA! These popular fundraisers not only benefit our school but also support local small businesses. Ordering online through Memberhub is preferred, however if you need to pay with cash or check, please email [fundraising@crestonschoolpta.org ](mailto:fundraising@crestonschoolpta.org)for a paper form.
 

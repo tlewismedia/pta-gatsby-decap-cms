@@ -4,7 +4,7 @@ path: /get-involved
 title: Fundraise
 image: /img/fundraise-blue-bags.jpeg
 ---
-## PTA RAISES FUNDS FOR: 
+## PTA RAISES FUNDS FOR:
 
 * GROW Portland (garden program)
 * Community building and cultural events
@@ -44,9 +44,9 @@ Find out about upcoming fundraising events on the [PTA Google Calendar.](https:/
 
 This has become one of our most successful fundraising efforts!
 
-1. Pick up a special blue bag at one of the weekly library book bag pick ups.
-2. Fill your bag(s) with qualifying plastic, aluminum and glass bottles (no need to sort).
-3. Bring full blue bags to any BottleDrop center (closest locations to Creston are Safeway on Powell and Chavez, Trader Joe’s on Chavez, and Hawthorne Fred Meyer), or drop them to Creston-parent-owned business: Cnoc (3370 SE 20th) and we’ll take care of them for you!
+* Pick up a special blue bag at one of the weekly library book bag pick ups.
+* Fill your bag(s) with qualifying plastic, aluminum and glass bottles (no need to sort).
+* Bring full blue bags to any BottleDrop center (closest locations to Creston are Safeway on Powell and Chavez, Trader Joe’s on Chavez, and Hawthorne Fred Meyer), or drop them to Creston-parent-owned business: Cnoc (3370 SE 20th) and we’ll take care of them for you!
 
 ## DINE OUTS
 
@@ -58,11 +58,11 @@ Dine-outs are a great way to support area businesses and earn money for our PTA.
 
 Here are ways you can contribute in your day-to-day life with no additional cost to you.
 
+![](/img/fred-meyer-rewards-image-300x170.jpeg)
+
 * FRED MEYER COMMUNITY REWARDS - Link your Fred Meyer Rewards account with “Creston School PTA,” by clicking [here.](https://www.fredmeyer.com/i/community/community-rewards)
 * TUFT AND NEEDLE - Creston earns 25% back on mattresses and all other purchases when using [this link](https://tuftandneedle.attfm2.net/crestonel).
 * BOX TOPS FOR EDUCATION - Remember to scan grocery receipts into the BoxTops4Education App. Select “Creston Elementary School” as the school to support. Learn more about the program and how to sign up [here](https://www.boxtops4education.com/).
 * SHUTTERFLY - [Use this custom link](https://shareasale.com/r.cfm?b=82482&u=2627674&m=12808&urllink=www%2Eshutterfly%2Ecom%2F&afftrack=) when ordering photos, holiday cards etc.
 
-<SHOP THE CRESTON STORE>
-
-Learn more about Creston PTA >
+[SHOP THE CRESTON STORE](https://creston.memberhub.com/store?limit=21&live=true)

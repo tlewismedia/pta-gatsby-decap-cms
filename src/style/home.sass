@@ -37,13 +37,14 @@
   display: flex
   width: 100%
   padding-top: 116px
-  padding-bottom: 103px
+  padding-bottom: 40px
 
 .home__tagline
   font-family: 'Darumadrop One', sans-serif
   font-size: 110px
   line-height: .8
   margin-bottom: 80px
+  margin-left: 25px
   color: $primary
 
 .home__hero-left
@@ -58,9 +59,9 @@
 
 .home__eagle
   position: absolute
-  left: -71px
-  top: 47px
-  opacity: .5
+  left: 300px
+  top: -87px
+  opacity: 1
 
 .home_kids
   margin-right: -89px
@@ -72,13 +73,16 @@
 .home__sup_container
   @include page-row-container
   flex-direction: column
-  padding: 20px
+  padding: 40px
 
 .home__sup_heading
   color: $primary
-  margin: 35px 
+  margin-top: 45px 
+  margin-bottom: 30px
   font-size: 36px
   font-family: 'Darumadrop One', sans-serif
+  letter-spacing: 1px
+  text-align: center
 
 .home__sup_grid
   display: grid
@@ -88,6 +92,8 @@
   justify-content: center
   align-content: center
   margin: auto
+  margin-bottom: 60px
+  margin-top: 0px
   width: 100%
 
 .home__sup_grid_item
@@ -104,6 +110,7 @@
   color: $secondary
   text-decoration: none
   font-weight: 800
+  letter-spacing: .8px
 
 // DONATE **********************************
 
@@ -112,13 +119,14 @@
 
 .home__don_container
   @include page-row-container
-  padding: 65px 80px
+  padding: 60px 50px
   align-items: center
 
 
 .home__don_text
   font-family: 'Darumadrop One', sans-serif
   font-size: 36px
+  letter-spacing: 1px
   color: white
 
 
@@ -128,11 +136,13 @@
   padding: 12px 36px
   border: none
   color: white
-  font-size: 18px
+  font-size: 17px
   font-weight: 700
   border-radius: 8px
   border-bottom: 5px solid #b36338
   text-decoration: none
+  margin-left: 30px
+  letter-spacing: .9px
 
 .btn-alt
   background: white
@@ -140,29 +150,47 @@
   border-bottom: 5px solid #cacaca
 
 
+@media (max-width: 1000px)
+  .home__tagline
+    font-size: 90px
+    margin-left: 30px
+  .home__eagle
+    position: absolute
+    left: 221px
+    top: -87px
+  .btn    
+    margin-left: 30px 
 
 @media (max-width: 900px)
   .home__hero-container
     flex-direction: column
+    padding-top: 70px
 
   .home__hero-left 
     width: 100%
     text-align: center
 
-  .home__tagline
-    font-size: 90px
-
+  
   .home__hero-right 
-    width: 100%
+    width: 110%
     text-align: center
+    padding-top: 60px
+
+  .home__eagle
+    position: absolute
+    left: 60%
+    top: -30px
+    scale: 50%
+    opacity: 0
 
   .home__sup_container 
-    padding-bottom: 30px
+    padding-bottom: 40px
 
   .home__sup_heading
-    margin-top: 100px
-    margin-bottom: 100px
+    margin-top: 40px
+    margin-bottom: 20px
     text-align: center
+
   
   .home__sup_grid
     // background: yellow
@@ -174,7 +202,7 @@
 
   .home__sup_grid_item
     margin: 0
-    font-size: 13px
+    font-size: 17px
 
   .home__sup_grid_item img
     // width: 160px 
@@ -184,13 +212,16 @@
     flex-direction: column
     align-items: center
     text-align: center
-    padding: 0
+    padding: 40px, 50px
     * 
-      margin: 20px
+      margin: 10px
+  .home__don_text
+    margin-bottom: 20px
 
   .foot__container
     flex-direction: column
-
+    padding: 30px, 80px
+    
   .foot__support_lists
     flex-direction: column
 

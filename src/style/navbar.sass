@@ -11,13 +11,14 @@
 
 .nav__links
   display: flex
+  letter-spacing: .3px
 
 .nav__sub-links
-  background: rgba(255, 255, 255, 0.6)
+  background: rgba(236, 241, 253, 0.546)
   padding: 20px
-  border-radius: 30px
+  border-radius: 10px
   border: 1px solid rgba(0,0,0,.1)
-  backdrop-filter: blur(18px)
+  backdrop-filter: blur(16px)
   position: absolute
   top: 100px
   box-shadow: 0 5px 6px rgba(0,0,0,.1)
@@ -36,7 +37,7 @@
   position: relative
   color: $primary
   font-weight: bold
-  font-size: 16px
+  font-size: 17px
 
   &:first-child
     color: $secondary
@@ -72,6 +73,7 @@
 
 .nav__home_button
   margin-top: 44px
+  margin-left: 30px
 
 @media (max-width: 900px)
   .nav
@@ -93,5 +95,5 @@
     margin-top: 30px
 
   .nav__sub-links
-    top: 33px
+    top: 60px
     font-size: 18px

@@ -25,7 +25,7 @@ Creston PTA is committed to engaging parents in meaningful ways, so that familie
 
 ## MEMBERSHIP 
 
-![](/img/why-join-creston-pta.png)
+![](/img/pta-creates-supports-amplifies-tw.png)
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 
@@ -69,6 +69,8 @@ Xochilth Franklin - DEI Co-Chair - socialjustice@crestonschoolpta.org
 Jan Snyder - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
+
+![](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
 [PTA GOOGLE CALENDAR](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
 

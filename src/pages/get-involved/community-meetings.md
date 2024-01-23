@@ -8,7 +8,7 @@ image: /img/community-meetings2.49-pm.png
 
 Join us at our next community meeting! Everyone is encouraged to attend regardless of PTA membership status, however, membership is needed to cast an official vote on PTA budgets and initiatives.
 
-Learn more about [PTA MEMBERSHIP >](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member)
+Learn more about [PTA membership.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member)
 
 Find out about our next meeting on the [PTA GOOGLE CALENDAR.](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
 
@@ -18,4 +18,4 @@ Find out about our next meeting on the [PTA GOOGLE CALENDAR.](https://docs.googl
 * Updates on PTA events, fundraisers and other efforts
 * Guest speakers and presentations on a variety of topics.
 
-Learn more about [Creston PTA >](https://inquisitive-lolly-d1ee77.netlify.app/admin/#/collections/about/entries/about-creston-pta)
+Learn more [about Creston PTA.](https://inquisitive-lolly-d1ee77.netlify.app/admin/#/collections/about/entries/about-creston-pta)

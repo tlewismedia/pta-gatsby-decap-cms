@@ -15,6 +15,12 @@ Learn more about the [National PTA](https://www.pta.org) and [Oregon PTA.](https
 
 To engage and empower families in our community to support and advocate for our students so that they can reach their full potential. We aim to holistically enhance every student's school experience with family-friendly and culturally-relevant events. We are dedicated to collaborating with the school to promote student health, well-being and educational success through strong parent, family and community involvement. 
 
+## Family Engagement
+
+Research shows that children whose parents and families are engaged in and hold high expectations of their education tend to earn better grades, have higher graduations rates, and are more likely to enroll in post-secondary education.
+
+Creston PTA is committed to engaging parents in meaningful ways, so that families can actively support their children’s and adolescents’ learning and development.
+
 ## MEMBERSHIP 
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.

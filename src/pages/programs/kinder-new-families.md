@@ -1,6 +1,6 @@
 ---
 templateKey: generic-page
-title: KINDER & NEW FAMILIES
+title: Kinder and New Families
 image: /img/istock-1453981380.jpg
 ---
 ## WELCOME TO CRESTON!

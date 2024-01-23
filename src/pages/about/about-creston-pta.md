@@ -17,7 +17,7 @@ To engage and empower families in our community to support and advocate for our 
 
 ## Family Engagement
 
-![photo of a painting of a parent and child holding hands](/img/suzi-kim-adpvazshqdu-unsplash.jpg)
+![photo of a sidewalk painting of a parent and child holding hands](/img/suzi-kim-adpvazshqdu-unsplash.jpg)
 
 Research shows that children whose parents and families are engaged in and hold high expectations of their education tend to earn better grades, have higher graduations rates, and are more likely to enroll in post-secondary education.
 
@@ -25,7 +25,7 @@ Creston PTA is committed to engaging parents in meaningful ways, so that familie
 
 ## MEMBERSHIP 
 
-![](/img/pta-creates-supports-amplifies-tw.png)
+![You belong in PTA graphic](/img/pta-creates-supports-amplifies-tw.png)
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 

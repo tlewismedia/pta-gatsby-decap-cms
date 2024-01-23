@@ -15,7 +15,9 @@ Contact
 
 ## REGISTER FOR KINDERGARTEN
 
-<link>
+Registration for2024-25 Kindergarten starts **March 1st.** Lottery Window for 2024-25 Elementary School is from **February 15 to March 15, 2024.**   
+
+[Register for Kindergarten](https://www.pps.net/kinderenroll)
 
 ## MEET YOUR COMMUNITY
 

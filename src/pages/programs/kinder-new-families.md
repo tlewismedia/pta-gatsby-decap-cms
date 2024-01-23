@@ -5,9 +5,7 @@ image: /img/istock-1453981380.jpg
 ---
 ## WELCOME TO CRESTON!
 
-
-
-![]()
+photo?
 
 ## WHAT IS KINDER CONNECT?
 
@@ -30,7 +28,5 @@ Getting involved in Creston PTA is a great way to get to know your community and
 ## NEW FAMILY FAQ?
 
 PDF?
-
-
 
 Contact info for more questions

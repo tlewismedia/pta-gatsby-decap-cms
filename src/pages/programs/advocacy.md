@@ -1,6 +1,6 @@
 ---
 templateKey: generic-page
-title: SE Powell Blvd. Safety
+title: Safe Routes to School
 image: /img/pxl_20230901_153419211_exported_1350_1693587253638.jpg
 ---
 ## ADVOCACY 

@@ -85,5 +85,3 @@ BOX TOPS FOR EDUCATION - Remember to scan grocery receipts into the BoxTops4Educ
 ![Shutterfly logo](/img/1024px-shutterfly_logo.png)
 
 SHUTTERFLY - [Use this custom link](https://shareasale.com/r.cfm?b=82482&u=2627674&m=12808&urllink=www%2Eshutterfly%2Ecom%2F&afftrack=) when ordering photos, holiday cards etc.
-
-Shop the Creston Store.

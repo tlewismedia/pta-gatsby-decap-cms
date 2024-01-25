@@ -50,23 +50,23 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
 
-Jenna Charton - President - president@crestonschoolpta.org
+**Jenna Charton** - President - president@crestonschoolpta.org
 
-Jennica Stephenson - Vice President - vicepresident@crestonschoolpta.org
+**Jennica Stephenson** - Vice President - vicepresident@crestonschoolpta.org
 
-Amber Porter - Secretary - secretary@crestonschoolpta.org
+**Amber Porter** - Secretary - secretary@crestonschoolpta.org
 
-Tanya Gilbert - Treasurer - treasurer@crestonschoolpta.org
+**Tanya Gilbert** - Treasurer - treasurer@crestonschoolpta.org
 
-Laura Bartroff - Fundraising Chair - fundraising@crestonschoolpta.org
+**Laura Bartroff** - Fundraising Chair - fundraising@crestonschoolpta.org
 
-Wendy Haile - Volunteer & Membership Chair - volunteercoordinator@crestonschoolpta.org
+**Wendy Haile** - Volunteer & Membership Chair - volunteercoordinator@crestonschoolpta.org
 
-Josh Roll - Health & Safety Chair - healthandsafety@crestonschoolpta.org
+**Josh Roll** - Health & Safety Chair - healthandsafety@crestonschoolpta.org
 
-Xochilth Franklin - DEI Co-Chair - socialjustice@crestonschoolpta.org
+**Xochilth Franklin** - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
-Jan Snyder - DEI Co-Chair - socialjustice@crestonschoolpta.org
+**Jan Snyder** - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
 

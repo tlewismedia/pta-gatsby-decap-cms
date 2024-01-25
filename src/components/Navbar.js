@@ -47,7 +47,7 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="nav__link" to="/blog">
+        <div className="nav__link">
           <span className="hide-mobile">Programs and</span> Resources
           <div className="nav__sub-links">
             <div className="nav__sub-link">
@@ -84,19 +84,38 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/programs/learning-gardens">
+                Learning Gardens
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
               <Link
                 className="nav__sub-link"
-                to="/programs/learning-gardens"
+                to="/programs/kinder-new-families"
               >
-                Learning Gardens
+                Kinder and New Families
               </Link>
             </div>
           </div>
         </div>
 
-        <Link className="nav__link" to="/about">
-          About Us
-        </Link>
+        <div className="nav__link nav__link--about">
+          About
+          <div className="nav__sub-links">
+            <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/about/about-creston-school">
+                About Creston School
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/about/about-creston-pta">
+                About Creston PTA
+              </Link>
+            </div>
+          </div>
+        </div>
 
         {/* <Link className="nav__link" to="/contact">
             News

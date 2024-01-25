@@ -1,13 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
-import { getImage } from "gatsby-plugin-image";
-
 import Layout from "../components/Layout";
-import PageRowContainer from "../components/PageRowContainer";
-import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
-import FullWidthImage from "../components/FullWidthImage";
 import "../style/home.sass";
 
 // eslint-disable-next-line
@@ -20,7 +14,6 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => {
-  const heroImage = getImage(image) || image;
 
   return (
     <div className="home">

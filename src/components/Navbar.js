@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "gatsby";
 import "../style/navbar.sass";
 
 const Navbar = () => {
-  const [isActive, setIsActive] = useState(false);
 
   return (
     <nav className="nav" role="navigation" aria-label="main-navigation">
@@ -11,12 +10,7 @@ const Navbar = () => {
         <img src="../img/pta-logo.svg" alt="Creston PTA Logo" />
       </Link>
 
-      {/* <ul
-          id="navMenu"
-          className={` navbar-start has-text-centered navbar-menu ${
-            isActive && "is-active"
-          }`}
-        > */}
+     
       <div id="navMenu" className="nav__links">
         <div className="nav__link" to="/get-involved">
           Support Our School

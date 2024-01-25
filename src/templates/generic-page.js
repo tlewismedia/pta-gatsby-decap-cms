@@ -23,9 +23,6 @@ export const GenericPageTemplate = ({
 
   const PostContent = contentComponent || Content;
 
-  console.log("In GenericPageTemplate *************");
-  console.log("content");
-  console.log(content);
   return (
     <section className="generic_page">
       <SubHeader title={title} image={imgSrc} />

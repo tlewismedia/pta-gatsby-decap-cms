@@ -1,11 +1,23 @@
 import * as React from "react";
 import Layout from "../components/Layout";
 
+
+const style = {
+  height: '200px', 
+  width: '300px', 
+  display: 'flex', 
+  flexDirection: 'column', 
+  justifyContent: 'center', 
+  border: '1px dotted lightgray',
+  margin: '200px auto',
+  textAlign: 'center',
+}
+
 const NotFoundPage = () => (
   <Layout>
-    <div>
-      <h1>NOT FOUND</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <div style={style}>
+      <h1>Sorry</h1>
+      <p>The page requested does not exist.</p>
     </div>
   </Layout>
 );

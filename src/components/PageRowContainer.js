@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
 import "../style/page-row-container.sass";
 
 const PageRowContainer = ({ children }) => {

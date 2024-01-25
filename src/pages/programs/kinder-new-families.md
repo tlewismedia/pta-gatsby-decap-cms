@@ -9,23 +9,23 @@ photo?
 
 ## WHAT IS KINDER CONNECT?
 
-Description
+Kindergarten Connect is an informational open house event at our school for incoming families. You will have a chance to meet our amazing Kindergarten teachers and Principal, see the classrooms, tour the school, and hear all the exciting activities your students will enjoy next year! There will be info regarding how to register, before and after school care, school breakfast and lunch, and what a typical school day holds.
 
-Contact
+The more you learn, the more confident you and your child will feel on the first day of school! More general kindergarten information may be found on the [official PPS website](https://www.pps.net/kindergarten).
 
 ## REGISTER FOR KINDERGARTEN
 
-Registration for2024-25 Kindergarten starts **March 1st.** Lottery Window for 2024-25 Elementary School is from **February 15 to March 15, 2024.**   
+Registration for 2024-25 Kindergarten starts **March 1st.** Lottery Window for 2024-25 Elementary School is from **February 15 to March 15, 2024.**   
 
 [Register for Kindergarten](https://www.pps.net/kinderenroll)
 
 ## MEET YOUR COMMUNITY
 
-Fall ice cream social? New family breakfast? Other meet and greet events? Contact person to join Kinder facebook page. PTA facebook and IG links
+Sibling Storytime at the library? Fall ice cream social? New family breakfast? Other meet and greet events? Contact person to join Kinder facebook page. PTA facebook and IG links
 
 ## GET INVOLVED WITH PTA
 
-Getting involved in Creston PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out the VOLUNTEER INTEREST FORM or email volunteercoordinator@crestonschoolpta.org to find out how you can get involved!
+Getting involved in Creston PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page or email volunteercoordinator@crestonschoolpta.org to find out how you can get involved!
 
 ## NEW FAMILY FAQ?
 

@@ -17,11 +17,15 @@ To engage and empower families in our community to support and advocate for our 
 
 ## Family Engagement
 
+![photo of a sidewalk painting of a parent and child holding hands](/img/suzi-kim-adpvazshqdu-unsplash.jpg)
+
 Research shows that children whose parents and families are engaged in and hold high expectations of their education tend to earn better grades, have higher graduations rates, and are more likely to enroll in post-secondary education.
 
-Creston PTA is committed to engaging parents in meaningful ways, so that families can actively support their children’s and adolescents’ learning and development.
+Creston PTA is committed to engaging parents in meaningful ways, so that families can actively support their children’s and adolescent's learning and development.
 
 ## MEMBERSHIP 
+
+![You belong in PTA graphic](/img/pta-creates-supports-amplifies-tw.png)
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 
@@ -35,8 +39,8 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 * Organize community building events (movie nights, ice cream socials, etc.)
 * Organize educational events like STEAM Night.
-* Organize fundraising events (Run for the Eagles, fall wreath and spring plant sales) Learn more [about our fundraisers.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/fundraise)
-* Volunteer in classrooms, the lunch room, in the gardens, on committees, etc. Learn more [about volunteering.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/volunteer)
+* Organize fundraising events (Run for the Eagles, fall wreath and spring plant sales) Learn more about [our fundraisers.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/fundraise)
+* Volunteer in classrooms, the lunch room, in the gardens, on committees, etc. Learn more about [volunteering.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/volunteer)
 * [](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/volunteer)Organize volunteers to support [food and family security programs](https://inquisitive-lolly-d1ee77.netlify.app/programs/food-family-resources) like Urban Gleaners, food drives, and the PPS Clothing Closet.
 * Search and apply for grants and other funding sources to pay for programs like Grow Portland and events like the Walking and Bike Fair.
 * Allocate donations to programs and materials that support student success.
@@ -65,6 +69,8 @@ Xochilth Franklin - DEI Co-Chair - socialjustice@crestonschoolpta.org
 Jan Snyder - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
+
+![](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
 [PTA GOOGLE CALENDAR](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
 

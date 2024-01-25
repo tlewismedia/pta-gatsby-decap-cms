@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Become a Member
-image: /img/istock-1372606314.jpg
+image: /img/become-a-member.jpg
 ---
 ## PTA MEMBERSHIP 
 

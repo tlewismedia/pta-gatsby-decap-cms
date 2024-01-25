@@ -60,13 +60,19 @@ export const IndexPageTemplate = ({
               <img src="/img/fundraise.svg" alt="Person 2" />
               Fundraise
             </Link>
-  
-            <Link className="home__sup_grid_item" to="/get-involved/community-meetings">
+
+            <Link
+              className="home__sup_grid_item"
+              to="/get-involved/community-meetings"
+            >
               <img src="/img/community-meetings.svg" alt="Person 3" />
-                  Community Meetings
+              Community Meetings
             </Link>
-             
-            <Link className="home__sup_grid_item" to="/get-involved/become-a-member">
+
+            <Link
+              className="home__sup_grid_item"
+              to="/get-involved/become-a-member"
+            >
               <img src="/img/membership.svg" alt="Person 4" />
               PTA Membership
             </Link>
@@ -77,8 +83,15 @@ export const IndexPageTemplate = ({
       <div className="home__donate">
         <div className="home__don_container">
           <div className="home__don_text">Donate to Creston PTA</div>
-          <button className="btn">Donate</button>
-          <button className="btn btn-alt">Become a Monthly Doner</button>
+
+          <Link
+            className="home__don_btn"
+             to="https://app.memberhub.gives/monthly-giving"
+          >
+            <button className="btn">Donate</button>
+          </Link>
+          {/* <button className="btn">Donate</button> */}
+          {/* <button className="btn btn-alt">Become a Monthly Doner</button> */}
         </div>
       </div>
     </div>

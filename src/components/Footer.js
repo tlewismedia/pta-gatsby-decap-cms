@@ -24,7 +24,9 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <a href="">PPS Background Check - TODO</a>
+                  <Link className="" to="https://www.pps.net/domain/66">
+                    PPS Background Check
+                  </Link>
                 </li>
                 <li>
                   <Link className="" to="/get-involved/fundraise">
@@ -38,7 +40,10 @@ const Footer = () => {
 
               <ul>
                 <li>
-                  <Link className="" to="/get-involved/community-meetings">
+                  <Link
+                    className=""
+                    to="https://app.memberhub.gives/monthly-giving"
+                  >
                     Donate to PTA
                   </Link>
                 </li>
@@ -53,7 +58,9 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <a href="">Shop Creston Store - TODO</a>
+                  <Link className="" to="https://creston.memberhub.com/store">
+                    Shop Creston Store
+                  </Link>
                 </li>
               </ul>
             </div>

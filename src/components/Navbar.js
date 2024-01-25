@@ -19,7 +19,7 @@ const Navbar = () => {
         > */}
       <div id="navMenu" className="nav__links">
         <div className="nav__link" to="/get-involved">
-          Support our School
+          Support Our School
           <div className="nav__sub-links">
             <div className="nav__sub-link">
               <Link className="" to="/get-involved/become-a-member">
@@ -80,6 +80,15 @@ const Navbar = () => {
                 to="/programs/food-family-resources"
               >
                 Food and Family Resources
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
+              <Link
+                className="nav__sub-link"
+                to="/programs/learning-gardens"
+              >
+                Learning Gardens
               </Link>
             </div>
           </div>

@@ -9,11 +9,16 @@ STEAM is an educational approach to learning that uses **S**cience, **T**echnolo
 
 ![](/img/creston_steam2-1024x1024.jpeg)
 
-Description of what Creston is doing as far STEAM learning, equipment, etc.
+Description of what Creston is doing as far as STEAM learning, equipment, etc.
+
+* STEAM curriculum, where projects using STEAM practices are embedded.
+* Laptop computers and mobile computer lab stations?
+* after-school STEAM programs
+* STEAM Night
 
 ## STEAM NIGHT
 
-STEAM Night at Creston is an opportunity to come together as a school community to celebrate our school's STEAM education with fun hands-on activities.
+STEAM Night at Creston is an opportunity to celebrate our school's STEAM education and engage students in fun hands-on activities.
 
 ## CRESTON WEATHER STATION
 

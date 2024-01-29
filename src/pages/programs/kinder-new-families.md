@@ -25,7 +25,7 @@ Sibling Storytime at the library? Fall ice cream social? New family breakfast? O
 
 ## GET INVOLVED WITH PTA
 
-Getting involved in Creston PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page or email volunteercoordinator@crestonschoolpta.org to find out how you can get involved!
+Getting involved in Creston PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page to find out how you can get involved!
 
 ## NEW FAMILY FAQ?
 

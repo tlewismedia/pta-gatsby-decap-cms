@@ -5,15 +5,15 @@ image: /img/steam.jpg
 ---
 ## WHAT IS STEAM?
 
-STEAM stands for science, technology, engineering, arts and mathematics.
+STEAM is an educational approach to learning that uses **S**cience, **T**echnology, **E**ngineering, the **A**rts and **M**athematics as access points for guiding student inquiry, dialogue, and critical thinking.
 
 ![](/img/creston_steam2-1024x1024.jpeg)
 
-Description of what it means to be a STEAM school and what Creston is doing as far STEAM learning, equipment, etc.
+Description of what Creston is doing as far STEAM learning, equipment, etc.
 
 ## STEAM NIGHT
 
-Description what is STEAM night and why do we have it? photo?
+STEAM Night at Creston is an opportunity to come together as a school community to celebrate our school's STEAM education with fun hands-on activities.
 
 ## CRESTON WEATHER STATION
 

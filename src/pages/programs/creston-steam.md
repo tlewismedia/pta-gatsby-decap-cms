@@ -18,7 +18,7 @@ Description of what Creston is doing as far as STEAM learning, equipment, etc.
 
 ## STEAM NIGHT
 
-STEAM Night at Creston is an opportunity to celebrate our school's STEAM education and engage students in fun hands-on activities.
+STEAM Night at Creston is an opportunity to celebrate our school's STEAM focused education and engage students and families in fun hands-on activities.
 
 ## CRESTON WEATHER STATION
 

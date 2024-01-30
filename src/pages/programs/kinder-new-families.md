@@ -5,7 +5,9 @@ image: /img/istock-1453981380.jpg
 ---
 ## WELCOME TO CRESTON! (INCOMPLETE)
 
-photo?
+Watch this video to meet our principal and learn more about kindergarten at our school.
+
+\*embed video from Creston PPS site\*
 
 ## WHAT IS KINDER CONNECT?
 
@@ -21,14 +23,10 @@ Registration for 2024-25 Kindergarten starts **March 1st.** Lottery Window for
 
 ## MEET YOUR COMMUNITY
 
-Sibling Storytime at the library? Fall ice cream social? New family breakfast? Other meet and greet events? Contact person to join Kinder facebook page. PTA facebook and IG links
+Sibling Storytime at the library? Fall ice cream social? New family breakfast? Other meet and greet events? Contact person. PTA facebook and IG links
+
+Contact us to join the Kinder parent list: kinderconnect@crestonschoolpta.org
 
 ## GET INVOLVED WITH PTA
 
 Getting involved in Creston PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page to find out how you can get involved!
-
-## NEW FAMILY FAQ?
-
-PDF?
-
-Contact info for more questions

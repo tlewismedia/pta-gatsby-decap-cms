@@ -31,8 +31,10 @@ We continue to encourage advocacy to keep our voices heard, and if you’d like 
 
 ![](/img/bikebus-eagle-small.jpg)
 
-## WALKING BUS
+## BIKE AND WALKING BUS
 
 Join the walking bus from north of Powell to the school every Friday! There are also families that walk or bike everyday and we can help make connections.
 
 [BIKE AND WALKING BUS ROUTES](https://docs.google.com/document/d/1vLLwXSuv7kAnvMhVFobtLZbYA0M0H0ArBcv9yZ3zvHY/edit)
+
+Learn more about [Portland's Bike Bus Movement.](https://www.bikebuspdx.org)

@@ -17,8 +17,6 @@ The more you learn, the more confident you and your child will feel on the first
 
 ## MEET YOUR COMMUNITY
 
-![](/img/2-people-sharing-ice-cream.jpg)
-
 The PTA hosts a school wide ice cream social and a meet and greet event for new families to kick off the new school year. Contact us to find out more and join the Kinder parent list: kinderconnect@crestonschoolpta.org
 
 ## GET INVOLVED WITH PTA

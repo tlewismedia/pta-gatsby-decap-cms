@@ -5,9 +5,7 @@ image: /img/istock-1453981380.jpg
 ---
 ## WELCOME TO CRESTON!
 
-Watch this video to meet our principal and learn more about kindergarten at our school.
-
-\*embed video from Creston PPS site\*
+![](/img/first-day-of-kinder.png)
 
 ## WHAT IS KINDER CONNECT?
 
@@ -19,8 +17,10 @@ The more you learn, the more confident you and your child will feel on the first
 
 ## MEET YOUR COMMUNITY
 
-The PTA hosts an ice cream social and new families breakfast at the start of the school year to welcome our community to Creston. Contact us to find out more and join the Kinder parent list: kinderconnect@crestonschoolpta.org
+![](/img/2-people-sharing-ice-cream.jpg)
+
+The PTA hosts a school wide ice cream social and a meet and greet event for new families to kick off the new school year. Contact us to find out more and join the Kinder parent list: kinderconnect@crestonschoolpta.org
 
 ## GET INVOLVED WITH PTA
 
-Getting involved in Creston PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page to find out how you can get involved!
+Getting involved in the PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page to find out how you can get involved!

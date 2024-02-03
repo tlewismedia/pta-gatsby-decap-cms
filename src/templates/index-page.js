@@ -28,7 +28,7 @@ export const IndexPageTemplate = ({
             </div>
 
             <Link className="btn" to="/about">
-              Learn more about PTA
+              Learn about Creston PTA
             </Link>
           </div>
 
@@ -41,7 +41,7 @@ export const IndexPageTemplate = ({
 
       <div className="home__support">
         <div className="home__sup_container">
-          <div className="home__sup_heading">Support our School</div>
+          <div className="home__sup_heading">Support Our School</div>
 
           <div className="home__sup_grid">
             <Link className="home__sup_grid_item" to="/get-involved/volunteer">

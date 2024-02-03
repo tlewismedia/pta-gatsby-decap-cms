@@ -10,14 +10,13 @@ const Navbar = () => {
         <img src="../img/pta-logo.svg" alt="Creston PTA Logo" />
       </Link>
 
-     
       <div id="navMenu" className="nav__links">
         <div className="nav__link" to="/get-involved">
           Support Our School
           <div className="nav__sub-links">
             <div className="nav__sub-link">
-              <Link className="" to="/get-involved/become-a-member">
-                Become a Member
+              <Link className="" to="/get-involved/volunteer">
+                Volunteer
               </Link>
             </div>
 
@@ -28,14 +27,20 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
-              <Link className="" to="/get-involved/volunteer">
-                Volunteer
+              <Link className="" to="/get-involved/community-meetings">
+                Community Meetings
               </Link>
             </div>
 
             <div className="nav__sub-link">
-              <Link className="" to="/get-involved/community-meetings">
-                Community Meetings
+              <Link className="" to="/get-involved/become-a-member">
+                Become a Member
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
+              <Link className="" to="https://creston.memberhub.com/store">
+                Shop the Creston Store
               </Link>
             </div>
           </div>
@@ -44,6 +49,18 @@ const Navbar = () => {
         <div className="nav__link">
           <span className="hide-mobile">Programs and</span> Resources
           <div className="nav__sub-links">
+            <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/programs/ccma">
+                CCMA
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/programs/food-family-resources">
+                Food and Family Resources
+              </Link>
+            </div>
+            
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/programs/after-school-care">
                 After School Care
@@ -57,23 +74,8 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/programs/ccma">
-                CCMA
-              </Link>
-            </div>
-
-            <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/programs/creston-library">
-                Creston Library
-              </Link>
-            </div>
-
-            <div className="nav__sub-link">
-              <Link
-                className="nav__sub-link"
-                to="/programs/food-family-resources"
-              >
-                Food and Family Resources
+              <Link className="nav__sub-link" to="/programs/kinder-new-families">
+                Kinder and New Families
               </Link>
             </div>
 
@@ -84,11 +86,8 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
-              <Link
-                className="nav__sub-link"
-                to="/programs/kinder-new-families"
-              >
-                Kinder and New Families
+              <Link className="nav__sub-link" to="/programs/creston-library">
+                Creston Library
               </Link>
             </div>
           </div>
@@ -98,14 +97,14 @@ const Navbar = () => {
           About
           <div className="nav__sub-links">
             <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/about/about-creston-school">
-                About Creston School
+              <Link className="nav__sub-link" to="/about/about-creston-pta">
+                About Creston PTA
               </Link>
             </div>
 
             <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/about/about-creston-pta">
-                About Creston PTA
+              <Link className="nav__sub-link" to="/about/about-creston-school">
+                About Creston School
               </Link>
             </div>
           </div>

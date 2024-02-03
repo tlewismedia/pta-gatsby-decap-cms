@@ -16,8 +16,8 @@ const style = {
 const NotFoundPage = () => (
   <Layout>
     <div style={style}>
-      <h1>Sorry</h1>
-      <p>The page requested does not exist.</p>
+      <h1>Oh, the saddness.</h1>
+      <p>I scream. You scream. We all scream over broken web pages. We'll get this cleaned up soon.</p>
     </div>
   </Layout>
 );

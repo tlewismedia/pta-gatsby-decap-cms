@@ -76,12 +76,12 @@ Here are ways you can contribute in your day-to-day life with no additional cost
 
 ![Tuft and Needle logo](/img/tuft-and-needle8536.logowik.com-copy.jpg)
 
-TUFT AND NEEDLE - Creston earns 25% back on mattresses and all other purchases when using [this link](https://tuftandneedle.attfm2.net/crestonel).
+**TUFT AND NEEDLE** - Creston earns 25% back on mattresses and all other purchases when using [this link](https://tuftandneedle.attfm2.net/crestonel).
 
 ![Box Tops logo](/img/boxtops.jpeg)
 
-BOX TOPS FOR EDUCATION - Remember to scan grocery receipts into the BoxTops4Education App. Select “Creston Elementary School” as the school to support. Learn more about the program and how to sign up [here](https://www.boxtops4education.com/).
+**BOX TOPS FOR EDUCATION** - Remember to scan grocery receipts into the BoxTops4Education App. Select “Creston Elementary School” as the school to support. Learn more about the program and how to sign up [here](https://www.boxtops4education.com/).
 
 ![Shutterfly logo](/img/1024px-shutterfly_logo.png)
 
-SHUTTERFLY - [Use this custom link](https://shareasale.com/r.cfm?b=82482&u=2627674&m=12808&urllink=www%2Eshutterfly%2Ecom%2F&afftrack=) when ordering photos, holiday cards etc.
+**SHUTTERFLY** - [Use this custom link](https://www.shutterfly.com/?SSAID=2627674&sscid=b1k6_11uaik&CID=AFF-SAS-SFLY-2627674-82482&SSAIDDATA=SSCID%5Fb1k6%5F11uaik) when ordering photos, holiday cards etc.

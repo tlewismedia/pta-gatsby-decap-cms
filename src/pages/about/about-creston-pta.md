@@ -13,13 +13,13 @@ Learn more about the [National PTA](https://www.pta.org) and [Oregon PTA.](https
 
 ## OUR MISSION
 
-To engage and empower families in our community to support and advocate for our students so that they can reach their full potential. We aim to holistically enhance every student's school experience with family-friendly and culturally-relevant events. We are dedicated to collaborating with the school to promote student health, well-being and educational success through strong parent, family and community involvement. 
+**To engage and empower families in our community to support and advocate for our students so that they can reach their full potential.** We aim to holistically enhance every student's school experience with family-friendly and culturally-relevant events. We are dedicated to collaborating with the school to promote student health, well-being and educational success through strong parent, family and community involvement. 
 
 ## Family Engagement
 
 ![photo of a sidewalk painting of a parent and child holding hands](/img/suzi-kim-adpvazshqdu-unsplash.jpg)
 
-Research shows that children whose parents and families are engaged in and hold high expectations of their education tend to earn better grades, have higher graduations rates, and are more likely to enroll in post-secondary education.
+Research shows that **children whose parents and families are engaged in and hold high expectations of their education tend to earn better grades, have higher graduations rates, and are more likely to enroll in post-secondary education.**
 
 Creston PTA is committed to engaging parents in meaningful ways, so that families can actively support their children’s and adolescent's learning and development.
 
@@ -31,7 +31,7 @@ We invite you to join Creston PTA! Members aren’t obligated to attend meetings
 
 Learn more about [PTA membership.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member)
 
-[Become a member or renew annual membership >](https://creston.memberhub.com/store?category=Memberships)
+[Become a member or renew annual membership.](https://creston.memberhub.com/store?category=Memberships)
 
 ## WHAT WE DO
 
@@ -50,23 +50,23 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
 
-Jenna Charton - President - president@crestonschoolpta.org
+**Jenna Charton** - President - president@crestonschoolpta.org
 
-Jennica Stephenson - Vice President - vicepresident@crestonschoolpta.org
+**Jennica Stephenson** - Vice President - vicepresident@crestonschoolpta.org
 
-Amber Porter - Secretary - secretary@crestonschoolpta.org
+**Amber Porter** - Secretary - secretary@crestonschoolpta.org
 
-Tanya Gilbert - Treasurer - treasurer@crestonschoolpta.org
+**Tanya Gilbert** - Treasurer - treasurer@crestonschoolpta.org
 
-Laura Bartroff - Fundraising Chair - fundraising@crestonschoolpta.org
+**Laura Bartroff** - Fundraising Chair - fundraising@crestonschoolpta.org
 
-Wendy Haile - Volunteer & Membership Chair - volunteercoordinator@crestonschoolpta.org
+**Wendy Haile** - Volunteer & Membership Chair - volunteercoordinator@crestonschoolpta.org
 
-Josh Roll - Health & Safety Chair - healthandsafety@crestonschoolpta.org
+**Josh Roll** - Health & Safety Chair - healthandsafety@crestonschoolpta.org
 
-Xochilth Franklin - DEI Co-Chair - socialjustice@crestonschoolpta.org
+**Xochilth Franklin** - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
-Jan Snyder - DEI Co-Chair - socialjustice@crestonschoolpta.org
+**Jan Snyder** - DEI Co-Chair - socialjustice@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
 

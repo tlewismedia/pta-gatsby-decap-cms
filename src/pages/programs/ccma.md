@@ -1,7 +1,7 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: CCMA
+title: Mutual Aid (CCMA)
 image: /img/fundraise2.jpg
 ---
 ## WHAT IS CCMA?

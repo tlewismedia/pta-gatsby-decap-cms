@@ -48,19 +48,22 @@ const Navbar = () => {
 
         <div className="nav__link">
           <span className="hide-mobile">Programs and</span> Resources
-          <div className="nav__sub-links">
+          <div className="nav__sub-links nav__resources_links">
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/programs/ccma">
-                CCMA
+                Mutual Aid (CCMA)
               </Link>
             </div>
 
             <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/programs/food-family-resources">
+              <Link
+                className="nav__sub-link"
+                to="/programs/food-family-resources"
+              >
                 Food and Family Resources
               </Link>
             </div>
-            
+
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/programs/after-school-care">
                 After School Care
@@ -74,7 +77,10 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/programs/kinder-new-families">
+              <Link
+                className="nav__sub-link"
+                to="/programs/kinder-new-families"
+              >
                 Kinder and New Families
               </Link>
             </div>
@@ -94,17 +100,24 @@ const Navbar = () => {
         </div>
 
         <div className="nav__link nav__link--about">
-          About
+          About Us
           <div className="nav__sub-links">
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/about/about-creston-pta">
-                About Creston PTA
+                About PTA
               </Link>
             </div>
-
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/about/about-creston-school">
-                About Creston School
+                About Our School
+              </Link>
+            </div>
+            <div className="nav__sub-link">
+              <Link
+                className="nav__sub-link"
+                to="https://us12.list-manage.com/contact-form?u=2bd93e9ab8c3bf54499b19d27&form_id=caa0ed4720aa3807797e1c9b91c26899"
+              >
+                Contact Us
               </Link>
             </div>
           </div>
@@ -114,9 +127,9 @@ const Navbar = () => {
             News
           </Link> */}
 
-        <Link className="nav__link" to="/contact/examples">
-          Contact
-        </Link>
+        {/* <Link className="nav__link" to="/contact/examples">
+          News
+        </Link> */}
       </div>
     </nav>
   );

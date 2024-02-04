@@ -22,6 +22,8 @@ export const IndexPageTemplate = ({
       <div className="home__hero">
         <div className="home__hero-container">
           <div className="home__hero-left">
+            <div className="home__sub-tagline">Creston School PTA</div>
+
             <div className="home__tagline">
               Together
               <br /> we soar
@@ -41,17 +43,25 @@ export const IndexPageTemplate = ({
 
       <div className="home__support">
         <div className="home__sup_container">
-          <div className="home__sup_heading">Support Our School</div>
+          <div className="home__sup_heading_items">
+            <div className="home__sup_heading">
+              Support Our School
+              <img src="/img/underline.svg" alt="line" />
+            </div>
+          </div>
 
           <div className="home__sup_grid">
+
             <Link className="home__sup_grid_item" to="/get-involved/volunteer">
               <img src="/img/volunteer.svg" alt="Person 1" />
-              Volunteer
+              Volunteer <br />
+              Opportunities
             </Link>
 
             <Link className="home__sup_grid_item" to="/get-involved/fundraise">
               <img src="/img/fundraise.svg" alt="Person 2" />
-              Fundraise
+              Fundraising <br />
+              Events
             </Link>
 
             <Link
@@ -59,7 +69,8 @@ export const IndexPageTemplate = ({
               to="/get-involved/community-meetings"
             >
               <img src="/img/community-meetings.svg" alt="Person 3" />
-              Community Meetings
+              Community <br />
+              Meetings
             </Link>
 
             <Link
@@ -67,7 +78,8 @@ export const IndexPageTemplate = ({
               to="/get-involved/become-a-member"
             >
               <img src="/img/membership.svg" alt="Person 4" />
-              PTA Membership
+              PTA <br />
+              Membership
             </Link>
           </div>
         </div>
@@ -79,7 +91,7 @@ export const IndexPageTemplate = ({
 
           <Link
             className="home__don_btn"
-             to="https://app.memberhub.gives/monthly-giving"
+            to="https://app.memberhub.gives/monthly-giving"
           >
             <button className="btn">Donate</button>
           </Link>

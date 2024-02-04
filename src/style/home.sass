@@ -36,7 +36,7 @@
   @include page-row-container
   display: flex
   width: 100%
-  padding-top: 86px
+  padding-top: 66px
   padding-bottom: 40px
       overflow: hidden
 
@@ -47,7 +47,17 @@
   margin-bottom: 80px
   margin-left: 25px
   color: $primary
- 
+
+.home__sub-tagline
+  font-family: 'open sans', sans-serif
+  font-size: 13px
+  margin-bottom: 10px
+  margin-top: 30px
+  color: #52707e
+  text-transform: uppercase
+  font-weight: 1000
+  margin-left: 29px
+  letter-spacing: 9px
 
 .special_word
   color: red
@@ -76,20 +86,37 @@
 
 // SUPPORT **********************************
 
+
+
 .home__sup_container
   @include page-row-container
   flex-direction: column
   padding: 30px
   background: #ffffff
 
+
+
 .home__sup_heading
+  display: grid
   color: $primary
-  margin-top: 25px 
-  margin-bottom: 30px
+  margin-top: 80px 
+  margin-bottom: 40px
   font-size: 36px
   font-family: 'Darumadrop One', sans-serif
   letter-spacing: .5px
   text-align: center
+
+.home__sup_heading img
+  margin-top: 10px
+  margin-left: 70px
+  scale: .8
+
+.home__sup_heading_items
+  display: flex
+  flex-direction: column
+  align-items: center
+  text-align: center
+  
 
 .home__sup_grid
   display: grid
@@ -99,9 +126,10 @@
   justify-content: center
   align-content: center
   margin: auto
-  margin-bottom: 40px
+  margin-bottom: 90px
   margin-top: 0px
   width: 100%
+ 
 
 .home__sup_grid_item
   display: flex
@@ -112,14 +140,17 @@
 .home__sup_grid_item img
   height: 200px
   width: 120px
+  margin-bottom: -18px
 
 .home__sup_grid_item
   color: $primary
   font-family: 'Darumadrop One', sans-serif
   text-decoration: none
-  font-size: 20px
+  font-size: 25px
   font-weight: 800
   letter-spacing: .3px
+
+  
 
 // DONATE **********************************
 
@@ -165,9 +196,10 @@
 
 @media (max-width: 1000px)
   .home__tagline
-    font-size: 90px
-    margin-left: 30px
-    margin-top: 40px
+    font-size: 70px
+    margin-top: 10px
+    margin-left: 0
+
   .home__eagle
     position: absolute
     left: 251px
@@ -178,10 +210,13 @@
   .btn    
     margin-left: 30px 
 
+  .home__sub-tagline
+    margin-left: 0
+
 @media (max-width: 900px)
   .home__hero-container
     flex-direction: column
-    padding-top: 5px
+    padding-top: 40px
    
   .home__hero-left 
     width: 100%
@@ -205,8 +240,8 @@
     padding-bottom: 20px
 
   .home__sup_heading
-    margin-top: 40px
-    margin-bottom: 40px
+    margin-top: 60px
+    margin-bottom: 30px
     text-align: center
 
   .btn    
@@ -222,12 +257,12 @@
 
   .home__sup_grid_item
     margin: 0
-  
+    
 
   .home__sup_grid_item img
     // width: 160px 
     // height: 160px
-   
+ 
 
   .home__don_container
     flex-direction: column
@@ -264,5 +299,4 @@
     width: 100%
 
 @media (max-width: 480px)
-  .home__sup_container 
-    scale: .8
+  

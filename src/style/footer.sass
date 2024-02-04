@@ -4,6 +4,12 @@
 footer
   color: white
 
+  h2
+    color: white
+  
+  li
+    color: white
+
   a
     color: white
     text-decoration: none
@@ -20,24 +26,39 @@ footer
   
 .foot__container
   @include page-row-container
+  margin-top: 20px
+
+  .foot__eagle
+    position: absolute
+    
 
 .foot__support
-  background: rgba(255,255,255,.2)
+  background: #230f0f(199, 33, 33, 0.2)
   padding: 20px
   width: 50%
 
 .foot__support_lists
   display: flex
   padding-bottom: 80px
-
+  font-weight: 500
+  font-size: 17px
+  letter-spacing: .13px
+  
+  .foot__support_lists_back
+    margin-left: 10px
+    font-weight: bold
+    opacity: .6
+    font-size: 80%
   ul:nth-child(2)
     margin-left: 10%
 
 .foot__right_lists
   width: 50%
-
+ 
   ul
-    margin: 78px 137px
+    margin: 94px 40px
+  
+  .foot__right_lists_social
 
 @media (max-width: 900px)
   .foot__right_lists ul 

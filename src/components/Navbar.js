@@ -115,7 +115,7 @@ const Navbar = () => {
             <div className="nav__sub-link">
               <Link
                 className="nav__sub-link"
-                to="https://us12.list-manage.com/contact-form?u=2bd93e9ab8c3bf54499b19d27&form_id=caa0ed4720aa3807797e1c9b91c26899"
+                to="/contact"
               >
                 Contact Us
               </Link>

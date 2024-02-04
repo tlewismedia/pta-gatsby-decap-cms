@@ -6,9 +6,14 @@ footer
 
   h2
     color: white
+    font-size: 24px
+    font-weight: bold
+    text-transform: uppercase
+    margin-bottom: 20px
   
   li
     color: white
+    margin: 0px 0px 13px 0px
 
   a
     color: white
@@ -27,15 +32,11 @@ footer
 .foot__container
   @include page-row-container
   margin-top: 20px
-
-  .foot__eagle
-    position: absolute
-    
+  flex-direction: column
 
 .foot__support
   background: #230f0f(199, 33, 33, 0.2)
   padding: 20px
-  width: 50%
 
 .foot__support_lists
   display: flex
@@ -43,23 +44,13 @@ footer
   font-weight: 500
   font-size: 17px
   letter-spacing: .13px
-  
-  .foot__support_lists_back
-    margin-left: 10px
-    font-weight: bold
-    opacity: .6
-    font-size: 80%
-  ul:nth-child(2)
-    margin-left: 10%
+  justify-content: space-between
 
-.foot__right_lists
-  width: 50%
- 
   ul
-    margin: 94px 40px
-  
-  .foot__right_lists_social
+    width: 25%
 
 @media (max-width: 900px)
-  .foot__right_lists ul 
-    margin: 40px 0
+  footer
+    .foot__support_lists
+      ul
+        width: 100%

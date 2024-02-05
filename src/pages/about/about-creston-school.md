@@ -46,3 +46,5 @@ Portland, OR 97206
 Alaina Langdahl
 
 ![image of Principal, Alaina Langdahl](/img/meet-our-principal.png)
+
+For more information about Creston School visit the [PPS District Website.](https://www.pps.net/creston)

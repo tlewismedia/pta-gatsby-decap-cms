@@ -1,7 +1,7 @@
 ---
 templateKey: generic-page
 title: Safe Routes to School
-image: /img/pxl_20230901_153419211_exported_1350_1693587253638.jpg
+image: /img/safe-routes-to-school.jpg
 ---
 ## Safe Routes to School
 

@@ -1,7 +1,7 @@
 ---
 templateKey: generic-page
 title: About Creston PTA
-image: /img/istock-1255190243.jpg
+image: /img/about-pta.jpg
 ---
 ## WHAT IS PTA?
 

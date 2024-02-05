@@ -1,7 +1,7 @@
 ---
 templateKey: generic-page
 title: Learning Gardens
-image: /img/elaine-casap-qghgdbbsnm8-unsplash.jpg
+image: /img/learning-gardens.jpg
 ---
 ## GROW PORTLAND
 

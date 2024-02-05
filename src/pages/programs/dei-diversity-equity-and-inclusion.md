@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: Diversity Equity and Inclusion
-image: /img/istock-1435048725.jpg
+image: /img/dei.jpg
 ---
 ## D.E.I. and Anti-Racism at Creston
 

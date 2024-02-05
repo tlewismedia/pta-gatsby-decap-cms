@@ -30,7 +30,7 @@ export const IndexPageTemplate = ({
             </div>
 
             <Link className="btn" to="/about">
-              Learn about Creston PTA
+              Learn about PTA
             </Link>
           </div>
 

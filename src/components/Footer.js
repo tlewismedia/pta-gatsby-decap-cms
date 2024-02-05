@@ -21,7 +21,7 @@ const Footer = () => {
                   className="foot__support_lists_back"
                   to="https://www.pps.net/domain/66"
                 >
-                  PPS Background Check
+                  Background Check
                 </Link>
               </li>
               <li>
@@ -88,7 +88,7 @@ const Footer = () => {
       </div>
 
       <div className="foot__bottom">
-        <div className="foot__container">2022 Creston School PTA</div>
+        <div className="foot__container">2024 Creston School PTA</div>
       </div>
     </footer>
   );

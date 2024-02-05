@@ -2,11 +2,15 @@
 templateKey: generic-page
 path: /get-involved
 title: Volunteer
-image: /img/istock-1427848310.jpg
+image: /img/volunteer.jpg
 ---
 ## “MANY HANDS MAKE LIGHT WORK”
 
 Creston PTA hosts a variety of fun events and committees but needs your help to keep them going! Whether you have a lot of time or only one hour, your help has a meaningful impact on our community. Thank you in advance for your participation!
+
+![](/img/rod-long-89bqbucvjdw-unsplash.jpg)
+
+## Volunteer Opportunities
 
 * **BottleDrop Donation Program –** Bring bags of cans to a donation site. This is the perfect role for someone with a truck.
 * **Creston Run for the Eagles –** Plan and/or volunteer to track laps and collect pledge forms at this fun annual fundraising event.

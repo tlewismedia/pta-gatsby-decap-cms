@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Fundraise
-image: /img/pexels-steve-johnson-1006060.jpg
+image: /img/fundraise.jpg
 ---
 ## We are community powered!
 
@@ -15,7 +15,7 @@ PTA raises funds for:
 
 ## OUR GOAL FOR 2023-2024: $25,000
 
-Our goal for 2023-24 is to raise $25,000 and you can help us get there! No matter how big or small, there’s a way for everyone to contribute and we’re grateful to all of you!
+Our goal for 2023-24 is to raise **$25,000** and you can help us get there! No matter how big or small, there’s a way for everyone to contribute and we’re grateful to all of you!
 
 ## WAYS YOU CAN HELP
 
@@ -28,8 +28,6 @@ Our goal for 2023-24 is to raise $25,000 and you can help us get there! No matte
 
 ## DONATIONS
 
-![](/img/fundraise.jpg)
-
 Your cash contribution to Creston School PTA is tax deductible. This is the most direct and effective way to support our programming and educational enhancements. Consider being a monthly supporter by setting up recurring donations. Set it, forget it, and make a big impact!
 
 [Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://creston.memberhub.com/store?limit=21&live=true&category=Memberships)
@@ -38,13 +36,13 @@ Your cash contribution to Creston School PTA is tax deductible. This is the most
 
 ### **Annual Run for the Eagles**
 
-![photo of kid lacing shoes](/img/run-for-eagles.jpg)
+![photo of a kid lacing shoes](/img/run-for-eagles.jpg)
 
-Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! [Donate online through Memberhub.](https://creston.memberhub.com/store?limit=21&live=true)
+Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! [Donate on Memberhub.](https://creston.memberhub.com/store?limit=21&live=true)
 
 ### Winter Wreath and Spring Plant Sales
 
-![](/img/artboard-1.png)
+![photo of flowers and someone making a wreath](/img/artboard-1.png)
 
 Take part in our November Wreath Sale and Spring Plant Sale and help raise funds for the PTA! These popular fundraisers not only benefit our school but also support local small businesses. Ordering online through Memberhub is preferred, however if you need to pay with cash or check, please email [fundraising@crestonschoolpta.org ](mailto:fundraising@crestonschoolpta.org)for a paper form.
 
@@ -72,15 +70,13 @@ Here are ways you can contribute in your day-to-day life with no additional cost
 
 ![Fred Meyer logo](/img/fred-meyer-rewards-image-300x170.jpeg)
 
-**FRED MEYER COMMUNITY REWARDS** - Link your Fred Meyer Rewards account with “Creston School PTA,” by clicking [here.](https://www.fredmeyer.com/i/community/community-rewards)
+**FRED MEYER COMMUNITY REWARDS** - [Link your Fred Meyer Rewards account](https://www.fredmeyer.com/i/community/community-rewards) with “Creston School PTA".
 
-![Tuft and Needle logo](/img/tuft-and-needle8536.logowik.com-copy.jpg)
-
-**TUFT AND NEEDLE** - Creston earns 25% back on mattresses and all other purchases when using [this link](https://tuftandneedle.attfm2.net/crestonel).
+**TUFT AND NEEDLE** - [Earns 25% back on mattresses](https://tuftandneedle.attfm2.net/crestonel) at Tuft & Needle and all other purchases.
 
 ![Box Tops logo](/img/boxtops.jpeg)
 
-**BOX TOPS FOR EDUCATION** - Remember to scan grocery receipts into the BoxTops4Education App. Select “Creston Elementary School” as the school to support. Learn more about the program and how to sign up [here](https://www.boxtops4education.com/).
+**BOX TOPS FOR EDUCATION** - Remember to scan grocery receipts into the BoxTops4Education App. Select “Creston Elementary School” as the school to support. [Sign up for Box Tops](https://www.boxtops4education.com/).
 
 ![Shutterfly logo](/img/1024px-shutterfly_logo.png)
 

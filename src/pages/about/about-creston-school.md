@@ -1,7 +1,7 @@
 ---
 templateKey: generic-page
 title: About Creston School
-image: /img/about-creston-school2.jpg
+image: /img/about-creston-school.jpg
 ---
 ## CRESTON ELEMENTARY 
 
@@ -31,8 +31,6 @@ Christine Cruzat
 
 [ccruzat@pps.net](mailto:ccruzat@pps.net)
 
-
-
 ## Office Hours: 
 
 8:30 AM - 3:30 PM 
@@ -45,6 +43,8 @@ Portland, OR 97206
 
 ## MEET OUR PRINCIPAL
 
+Alaina Langdahl
+
 ![image of Principal, Alaina Langdahl](/img/meet-our-principal.png)
 
-Alaina Langdahl
+For more information about Creston School visit the [PPS District Website.](https://www.pps.net/creston)

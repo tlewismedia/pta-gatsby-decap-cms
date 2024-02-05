@@ -1,7 +1,7 @@
 ---
 templateKey: generic-page
 title: Kinder and New Families
-image: /img/istock-1453981380.jpg
+image: /img/kinder-and-new-families.jpg
 ---
 ## WELCOME TO CRESTON!
 
@@ -13,7 +13,7 @@ Kindergarten Connect is an informational open house event at our school for inco
 
 The more you learn, the more confident you and your child will feel on the first day of school! Information on upcoming Kindergarten Connect events and general kindergarten information may be found on the [PPS website](https://www.pps.net/kindergarten).
 
-[Register for Kindergarten here.](https://www.pps.net/kinderenroll)
+[Register for Kindergarten.](https://www.pps.net/kinderenroll)
 
 ## MEET YOUR COMMUNITY
 

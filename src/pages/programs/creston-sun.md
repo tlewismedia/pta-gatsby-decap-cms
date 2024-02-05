@@ -2,7 +2,7 @@
 heading: My Heading For LIbrary
 templateKey: generic-page
 title: Creston SUN
-image: /img/cdc-gdokeynofne-unsplash.jpg
+image: /img/creston-sun.jpg
 ---
 ## WHAT IS SUN?
 

@@ -2,7 +2,7 @@
 templateKey: generic-page
 path: /get-involved
 title: Community Meetings
-image: /img/community-meetings2.49-pm.png
+image: /img/community-meetings.jpg
 ---
 ## YOU’RE INVITED!
 
@@ -18,4 +18,4 @@ Find out about our next meeting on the [PTA GOOGLE CALENDAR.](https://docs.googl
 * Updates on PTA events, fundraisers and other efforts
 * Guest speakers and presentations on a variety of topics.
 
-Learn more [about Creston PTA.](https://inquisitive-lolly-d1ee77.netlify.app/admin/#/collections/about/entries/about-creston-pta)
+Learn more about [Creston PTA.](https://inquisitive-lolly-d1ee77.netlify.app/admin/#/collections/about/entries/about-creston-pta)

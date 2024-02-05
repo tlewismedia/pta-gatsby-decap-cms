@@ -51,16 +51,15 @@
 .home__sub-tagline
   font-family: 'open sans', sans-serif
   font-size: 13px
-  margin-bottom: 20px
+  letter-spacing: 6px
+  margin-bottom: 15px
   margin-top: 0px
   color: #52707e
+  opacity: .5
   text-transform: uppercase
   font-weight: 1000
   margin-left: 29px
-  letter-spacing: 9px
-
-.special_word
-  color: red
+  
 
 .home__hero-left
   width: 50%
@@ -76,8 +75,8 @@
   position: absolute
   left: 275px
   top: -35px
-  opacity: .4
-  scale: .6
+  opacity: .3
+  scale: .7
 
 .home_kids
   margin-right: -89px
@@ -199,43 +198,60 @@
   .home__tagline
     font-size: 85px
     margin-top: 10px
-    
+    margin-bottom: 60px
 
   .home__eagle
     position: absolute
-    left: 235px
+    left: 245px
     top: -30px
     
   
   .btn    
     margin-left: 30px 
 
-  .home__sub-tagline
+
     
 
 @media (max-width: 900px)
   .home__hero-container
     flex-direction: column
-    padding-top: 40px
+    padding-top: 10px
+  
+    overflow: hidden
    
+   
+  .home__hero
+    background: #e9f4fc
+    background: linear-gradient(180deg, #f5fafd 0%, #c1d5de 100%)
+
+  .hero__fade
+    height: 0px
+
   .home__hero-left 
     width: 100%
     text-align: center
-
   
   .home__hero-right 
-    width: 110%
-    text-align: center
+    width: 108%
+    height: 220px
+    text-align: bottom
+    margin-top: 100px
     padding-top: 70px
 
-  .hero__fade
-    height: 70px
+  .home__tagline
+    font-size: 80px
+    margin-left: 10px
+    margin-top: -20px
+    
+  .home__sub-tagline
+    opacity: 0 
 
   .home__eagle
     position: absolute
-    left: 51%
-    top: 40px
-
+    left: 54%
+    top: -84px
+    opacity: .15
+  
   .home__sup_container 
     padding-bottom: 20px
 
@@ -298,5 +314,13 @@
   .foot__right_lists
     width: 100%
 
-@media (max-width: 480px)
+@media (max-width: 900px)
+  .home__eagle
+    
+    
+
+
+@media (max-width: 400px)
+  .home__tagline
+    font-size: 65px
   

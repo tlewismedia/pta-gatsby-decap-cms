@@ -101,6 +101,12 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/programs/advocacy">
+                Safe Routes to School
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/programs/creston-library">
                 Creston Library
               </Link>

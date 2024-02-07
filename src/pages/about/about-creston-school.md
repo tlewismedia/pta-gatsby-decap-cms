@@ -13,6 +13,8 @@ For more information about Creston School including food menus, bus routes, and 
 
 An inclusive community where personal excellence and academic growth meet.
 
+![](/img/contact-us.jpg)
+
 ## DAILY SCHEDULE
 
 8:38 AM - Doors Open (Welcome Bell)

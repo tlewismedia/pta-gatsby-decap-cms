@@ -15,6 +15,15 @@ const Navbar = () => {
           Support Our School
           <div className="nav__sub-links">
             <div className="nav__sub-link">
+              <Link
+                className=""
+                to="https://creston.memberhub.com/store?limit=21&live=true&category=Donations"
+              >
+                Donate
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
               <Link className="" to="/get-involved/volunteer">
                 Volunteer
               </Link>
@@ -113,10 +122,7 @@ const Navbar = () => {
               </Link>
             </div>
             <div className="nav__sub-link">
-              <Link
-                className="nav__sub-link"
-                to="/contact"
-              >
+              <Link className="nav__sub-link" to="/contact">
                 Contact Us
               </Link>
             </div>

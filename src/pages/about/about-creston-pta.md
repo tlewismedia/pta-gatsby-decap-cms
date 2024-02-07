@@ -72,9 +72,11 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ![](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
-View upcoming events on the PTA Google Calendar:
+View upcoming events on the PTA Calendar:
 
 [P﻿TA Calendar.doc](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
+
+Link to [PTA Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=c_5u0l6o2gc3gsf7b0ej5cup6gps@group.calendar.google.com)
 
 ## GIVEBACKS
 

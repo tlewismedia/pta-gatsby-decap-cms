@@ -36,7 +36,7 @@ Your cash contribution to Creston School PTA is tax deductible. This is the most
 
 ### Corporate Matching
 
-Maximize your donation with corporate matching! If you need help navigating this process, please [reach out to the PTA](/contact). We're here to help! Here is a list of companies with matching programs, contact us to add more:
+Maximize your donation with corporate matching! Many people don't realize they have a matching program, forget about it, or don't know how to utilize it. With a little effort, this can have a large impact on our fundraising. If you need help, please [reach out to the PTA](https://mail.google.com/contact). Here is a list of companies with matching programs, contact us to add more:
 
 * Bank of America
 * Intel

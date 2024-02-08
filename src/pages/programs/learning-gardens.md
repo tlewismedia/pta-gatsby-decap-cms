@@ -11,6 +11,6 @@ Thanks to the work of the PTA Garden & Sustainability Committee, Creston offers 
 
 Learn more at the [Grow Portland Website.](https://www.growportland.org/program-cirriculum-overview)
 
-![kids in the garden](/img/20231214_101213.jpg)
+![kids digging in the garden](/img/20231214_101213.jpg)
 
-![](/img/20231214_102631.jpg)
+![kids looking for worms.](/img/20231214_102631.jpg)

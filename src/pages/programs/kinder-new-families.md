@@ -11,7 +11,9 @@ image: /img/kinder-and-new-families.jpg
 
 Kindergarten Connect is an informational open house event at our school for incoming families. You will have a chance to meet our amazing Kindergarten teachers and Principal, see the classrooms, tour the school, and hear all the exciting activities your students will enjoy next year! There will be info regarding how to register, before and after school care, school breakfast and lunch, and what a typical school day holds.
 
-The more you learn, the more confident you and your child will feel on the first day of school! Information on upcoming Kindergarten Connect events and general kindergarten information may be found on the [PPS website](https://www.pps.net/kindergarten).
+The more you learn, the more confident you and your child will feel on the first day of school! Information on upcoming Kindergarten Connect events and a video from Principal Langdahl may be found on the [Creston School Website](https://www.pps.net/domain/6407).
+
+Find out even more on the [PPS website](https://www.pps.net/kindergarten).
 
 [Register for Kindergarten.](https://www.pps.net/kinderenroll)
 

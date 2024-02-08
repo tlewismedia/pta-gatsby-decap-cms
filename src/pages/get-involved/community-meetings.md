@@ -12,9 +12,7 @@ Find out about upcoming community meetings and other PTA events on the [PTA GOOG
 
 [PTA Calendar.doc](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
 
-Past meeting minutes and other PTA file archives can be viewed in the public [Givebacks File Folder](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs). You will need a Creston Givebacks account to view this content.
-
-
+Meeting Agendas, past meeting minutes and other PTA file archives can be viewed in the public [Givebacks File Folder](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs). You will need a Creston Givebacks account to view this content.
 
 ### MEETING TOPICS:
 

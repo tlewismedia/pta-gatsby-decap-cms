@@ -28,10 +28,6 @@ For further discussion, visit our [Creston DEI facebook page](https://www.facebo
 
 [7. PERSIST](https://crestonschoolpta.org/wp-content/uploads/2021/01/7-PERSIST.pdf)
 
-
-
-
-
-
+## Creston Community Agreements
 
 ![](/img/creston-pta-agreements-flyer.png)

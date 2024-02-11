@@ -101,6 +101,15 @@ const Navbar = () => {
             </div>
 
             <div className="nav__sub-link">
+              <Link
+                className="nav__sub-link"
+                to="/programs/dei-diversity-equity-and-inclusion"
+              >
+                Diversity, Equity, Inclusion (DEI)
+              </Link>
+            </div>
+
+            <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/programs/advocacy">
                 Safe Routes to School
               </Link>
@@ -133,6 +142,12 @@ const Navbar = () => {
               </Link>
             </div>
           </div>
+        </div>
+
+        <div className="nav__link nav__link--news">
+          <Link className="nav__link" to="/news">
+            News
+          </Link>
         </div>
 
         {/* <Link className="nav__link" to="/contact">

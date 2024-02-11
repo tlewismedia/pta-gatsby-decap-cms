@@ -39,7 +39,7 @@ export default class Index extends React.Component {
       <Layout>
         <iframe
           className="con__mail_chimp_frame"
-          src="https://us12.list-manage.com/contact-form?u=2bd93e9ab8c3bf54499b19d27&form_id=caa0ed4720aa3807797e1c9b91c26899"
+          src="https://us13.list-manage.com/contact-form?u=e39eb7fc9ebf88377dd826f2d&form_id=9a806b59f1ee2b3b3d7e3caf7a0b55d5"
           title="google"
         ></iframe>
 

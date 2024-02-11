@@ -30,7 +30,11 @@ Reminders and cancellations are emailed weekly via Givebacks. You can find more 
 
 This weekly event is only made possible with your help! Volunteers set up food tables, greet the community, and help with clean up.
 
-[VOLUNTEER NOW for Urban Gleaners](https://www.signupgenius.com/go/70a094eabad2aa4f94-urban#/)
+[VOLUNTEER NOW](https://www.signupgenius.com/go/70a094eabad2aa4f94-urban#/) for Urban Gleaners.
+
+Learn more about Urban Gleaners in this short video:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGIy_SdKgM8?si=lRvE4vZOrrkrIsbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Learn more at the [Urban Gleaners Website.](https://urbangleaners.org)
 

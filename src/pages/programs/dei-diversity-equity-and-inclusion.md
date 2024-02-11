@@ -1,8 +1,8 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: Diversity Equity and Inclusion
-image: /img/dei.jpg
+title: Diversity, Equity, Inclusion (DEI)
+image: /img/istock-1435048725.jpg
 ---
 ## D.E.I. and Anti-Racism at Creston
 
@@ -27,3 +27,7 @@ For further discussion, visit our [Creston DEI facebook page](https://www.facebo
 [6. PROTEST](https://crestonschoolpta.org/wp-content/uploads/2021/01/6-PROTEST.pdf)
 
 [7. PERSIST](https://crestonschoolpta.org/wp-content/uploads/2021/01/7-PERSIST.pdf)
+
+## Creston Community Agreements
+
+![](/img/creston-pta-agreements-flyer.png)

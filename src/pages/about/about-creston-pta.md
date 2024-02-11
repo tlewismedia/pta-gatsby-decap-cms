@@ -72,9 +72,19 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ![](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
-View upcoming events on the PTA Google Calendar:
 
-[P﻿TA Calendar.doc](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
+
+Find out about upcoming community meetings and other PTA events on the [PTA Google Calendar.](https://calendar.google.com/calendar/u/0/r?cid=c_5u0l6o2gc3gsf7b0ej5cup6gps@group.calendar.google.com)
+
+[PTA Calendar.doc](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
+
+PTA file archives can be viewed in the public Givebacks (formerly known as MemberHub) file folder. You will need a Creston Givebacks account to view this content.
+
+[Community Meeting Minutes Archive](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs)
+
+[PTA Newsletter Archive](https://creston.memberhub.com/files/Newsletters)
+
+
 
 ## GIVEBACKS
 

@@ -5,7 +5,7 @@ image: /img/kinder-and-new-families.jpg
 ---
 ## WELCOME TO CRESTON!
 
-![](/img/first-day-of-kinder.png)
+![Kindergarteners on their first day of school wearing "I love Kindergarten" hats.](/img/first-day-of-kinder.png)
 
 ## WHAT IS KINDER CONNECT?
 

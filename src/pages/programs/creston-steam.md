@@ -7,14 +7,9 @@ image: /img/steam.jpg
 
 STEAM is an educational approach to learning that uses **S**cience, **T**echnology, **E**ngineering, the **A**rts and **M**athematics as access points for guiding student inquiry, dialogue, and critical thinking.
 
-![](/img/creston_steam2-1024x1024.jpeg)
+M﻿ore about Creston STEAM coming soon!
 
-Description of what Creston is doing as far as STEAM learning, equipment, etc.
-
-* STEAM curriculum, where projects using STEAM practices are embedded.
-* Laptop computers and mobile computer lab stations?
-* after-school STEAM programs
-* STEAM Night
+![Creston STEAM logo](/img/creston_steam2-1024x1024.jpeg)
 
 ## STEAM NIGHT
 

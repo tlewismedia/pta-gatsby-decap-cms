@@ -29,7 +29,7 @@ We continue to encourage advocacy to keep our voices heard, and if you’d like 
 
 **Representative Khanh Pham** – Rep.KhanhPham@oregonlegislature.gov
 
-![](/img/bikebus-eagle-small.jpg)
+![Illustration of an eagle riding a bicycle.](/img/bikebus-eagle-small.jpg)
 
 ## BIKE AND WALKING BUS
 

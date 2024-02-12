@@ -32,8 +32,6 @@ Your cash contribution to Creston School PTA is tax deductible. This is the most
 
 [Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://creston.memberhub.com/store?limit=21&live=true&category=Memberships)
 
-
-
 ### Corporate Matching
 
 Maximize your donation with corporate matching! Many people don't realize they have a matching program, forget about it, or don't know how to utilize it. With a little effort, this can have a large impact on our fundraising. If you need help, please [reach out to the PTA](https://mail.google.com/contact). Here is a list of companies with matching programs, contact us to add more:
@@ -51,13 +49,13 @@ Maximize your donation with corporate matching! Many people don't realize they h
 
 ### **Annual Run for the Eagles**
 
-![photo of a kid lacing shoes](/img/run-for-eagles.jpg)
+![A kid tying sneakers.](/img/run-for-eagles.jpg)
 
 Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! [Donate on Memberhub.](https://creston.memberhub.com/store?limit=21&live=true)
 
 ### Winter Wreath and Spring Plant Sales
 
-![photo of flowers and someone making a wreath](/img/artboard-1.png)
+![A spring flower basket and someone making an evergreen wreath.](/img/artboard-1.png)
 
 Take part in our November Wreath Sale and Spring Plant Sale and help raise funds for the PTA! These popular fundraisers not only benefit our school but also support local small businesses. Ordering online through Memberhub is preferred, however if you need to pay with cash or check, please email [fundraising@crestonschoolpta.org ](mailto:fundraising@crestonschoolpta.org)for a paper form.
 
@@ -65,7 +63,7 @@ Find out about upcoming fundraising events on the [PTA Google Calendar.](https:/
 
 ## BOTTLEDROP (BLUE BAG) CAN DONATIONS
 
-![photo of blue bags full of cans](/img/fundraise-blue-bags.jpeg)
+![Blue bags full of cans.](/img/fundraise-blue-bags.jpeg)
 
 Put those cans and bottle refunds to good use and directly support our school. This program is so easy and provides steady support all year long. **Here’s how to get started:** 
 
@@ -75,7 +73,7 @@ Put those cans and bottle refunds to good use and directly support our school. T
 
 ## DINE OUTS
 
-![photo of a plate of pasta](/img/fundraise-dine-outs.jpg)
+![A plate of pasta.](/img/fundraise-dine-outs.jpg)
 
 Dine-outs are a great way to support area businesses and earn money for our PTA. We work with local restaurants to select a date and time for a Creston Dine Out and the restaurant gives back a percentage of the profit during that time. 
 

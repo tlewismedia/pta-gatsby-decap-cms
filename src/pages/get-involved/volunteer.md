@@ -8,7 +8,7 @@ image: /img/volunteer.jpg
 
 Creston PTA hosts a variety of fun events and committees but needs your help to keep them going! Whether you have a lot of time or only one hour, your help has a meaningful impact on our community. Thank you in advance for your participation!
 
-![](/img/rod-long-89bqbucvjdw-unsplash.jpg)
+![A painting of 2 orange hands with a red heart in the middle.](/img/rod-long-89bqbucvjdw-unsplash.jpg)
 
 ## Volunteer Opportunities
 

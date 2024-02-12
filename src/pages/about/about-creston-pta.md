@@ -17,7 +17,7 @@ Learn more about the [National PTA](https://www.pta.org) and [Oregon PTA.](https
 
 ## Family Engagement
 
-![photo of a sidewalk painting of a parent and child holding hands](/img/suzi-kim-adpvazshqdu-unsplash.jpg)
+![A sidewalk painting of a parent and child holding hands.](/img/suzi-kim-adpvazshqdu-unsplash.jpg)
 
 Research shows that **children whose parents and families are engaged in and hold high expectations of their education tend to earn better grades, have higher graduations rates, and are more likely to enroll in post-secondary education.**
 
@@ -25,7 +25,7 @@ Creston PTA is committed to engaging parents in meaningful ways, so that familie
 
 ## MEMBERSHIP 
 
-![You belong in PTA graphic](/img/pta-creates-supports-amplifies-tw.png)
+!["You belong in PTA" graphic.](/img/pta-creates-supports-amplifies-tw.png)
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 
@@ -70,9 +70,7 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ## STAY IN THE LOOP 
 
-![](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
-
-
+![A laptop, iphone, and calendar on a desk.](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
 Find out about upcoming community meetings and other PTA events on the [PTA Google Calendar.](https://calendar.google.com/calendar/u/0/r?cid=c_5u0l6o2gc3gsf7b0ej5cup6gps@group.calendar.google.com)
 
@@ -83,8 +81,6 @@ PTA file archives can be viewed in the public Givebacks (formerly known as Membe
 [Community Meeting Minutes Archive](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs)
 
 [PTA Newsletter Archive](https://creston.memberhub.com/files/Newsletters)
-
-
 
 ## GIVEBACKS
 

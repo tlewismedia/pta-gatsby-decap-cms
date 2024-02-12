@@ -13,7 +13,7 @@ For more information about Creston School including food menus, bus routes, and 
 
 An inclusive community where personal excellence and academic growth meet.
 
-![](/img/contact-us.jpg)
+![A kindergartener standing near an Eagle mosaic at Creston school.](/img/contact-us.jpg)
 
 ## DAILY SCHEDULE
 
@@ -47,6 +47,6 @@ Portland, OR 97206
 
 Alaina Langdahl
 
-![image of Principal, Alaina Langdahl](/img/meet-our-principal.png)
+![Portrait of Principal Alaina Langdahl.](/img/meet-our-principal.png)
 
 For more information about Creston School visit the [PPS District Website.](https://www.pps.net/creston)

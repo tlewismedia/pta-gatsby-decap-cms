@@ -14,7 +14,7 @@ A key difference between CCMA and Creston PTA is how we distribute funds. Cresto
 
 ***During 2022-2023, CCMA distributed nearly $10,000 in direct financial assistance to Creston families!***
 
-![photo of building with graffiti that says love your neighbor](/img/ccma.jpg)
+![A building with graffiti that says, "love your neighbor".](/img/ccma.jpg)
 
 ## REQUEST ASSISTANCE
 

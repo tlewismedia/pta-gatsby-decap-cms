@@ -100,7 +100,7 @@ export const IndexPageTemplate = ({
         </div>
       </div>
 
-      <div className="home__eagle_art">
+      {/*<div className="home__eagle_art">
         <div className="home__eagle_art_container">
           <div className="home__eagle_art_left"></div>
 
@@ -109,9 +109,10 @@ export const IndexPageTemplate = ({
             <img src="/img/eagle_art.png" alt="eagle" />
           </div>
         </div>
-      </div>
+  </div>*/}
+    
     </div>
-  </div>
+  
   );
 };
 

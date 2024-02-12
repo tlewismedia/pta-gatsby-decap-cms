@@ -144,7 +144,7 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="nav__link nav__link--news">
+        {/*<div className="nav__link nav__link--news">
           <Link className="nav__link" to="/news">
             News
           </Link>

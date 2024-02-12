@@ -118,8 +118,8 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="" to="/contact">
-                  <h2>Contact Us</h2>
+                <Link className="foot_support_lists_contact" to="/contact">
+                  <h3>Contact Us</h3>
                 </Link>
               </li>
             </ul>

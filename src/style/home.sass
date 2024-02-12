@@ -38,7 +38,7 @@
   width: 100%
   padding-top: 66px
   padding-bottom: 40px
-  overflow: hidden
+ 
 
 .home__tagline
   font-family: 'Darumadrop One', sans-serif
@@ -73,10 +73,10 @@
 
 .home__eagle
   position: absolute
-  left: 275px
+  left: 279px
   top: -35px
   opacity: .3
-  scale: .7
+  scale: .6
 
 .home_kids
   margin-right: -89px
@@ -90,7 +90,7 @@
 .home__sup_container
   @include page-row-container
   flex-direction: column
-  padding: 30px
+  padding: 0px
   background: #ffffff
 
 
@@ -98,7 +98,7 @@
 .home__sup_heading
   display: grid
   color: $primary
-  margin-top: 50px 
+  margin-top: 70px 
   margin-bottom: 0px
   font-size: 36px
   font-family: 'Darumadrop One', sans-serif
@@ -141,6 +141,7 @@
   width: 120px
   margin-bottom: -32px
 
+
 .home__sup_grid_item
   color: $primary
   font-family: 'Darumadrop One', sans-serif
@@ -159,18 +160,19 @@
 
 .home__don_container
   @include page-row-container
-  padding: 40px 50px
-
-
+  padding: 30px 100px 37px 100px
+  justify-content: space-evenly
+  align-items: center
+  
 .home__don_text
   font-family: 'Darumadrop One', sans-serif
   font-size: 36px
   letter-spacing: 1px
   color: white
-
+  
 .home__don_btn .btn
   cursor: pointer
-
+  
 // COMMON (move out) ****************
 .btn
   background: $secondary
@@ -189,13 +191,13 @@
 .btn-alt
   background: white
   color: $secondary
-  border-bottom: 5px solid #cacaca
+  border: 0px solid $secondary
 
 
 
 ///eagle
 .home__eagle_art
-  background: #EDF9FF
+  background: #78b1cd
   
 .home__eagle_art_container
  
@@ -209,7 +211,7 @@
 
 .home__eagle_art_right
   width: 50%
-  .home__hero-right
+  
   
   
 .eagle_art
@@ -266,9 +268,9 @@
 
   .home__eagle
     position: absolute
-    left: 54%
+    left: 52%
     top: -84px
-    opacity: .15
+    opacity: .3
   
   .home__sup_container 
     padding-bottom: 20px
@@ -302,11 +304,10 @@
     flex-direction: column
     align-items: center
     text-align: center
-    padding: 40px, 50px
-    * 
-      margin: 10px
+    padding: 40px
+    
   .home__don_text
-    margin-bottom: 20px
+    margin-bottom: 25px
     
 
   .foot__container
@@ -338,11 +339,16 @@
     
   .home__hero
     background: #e9f4fc
-    background: linear-gradient(180deg, #ffffff 0%, #acc7d5 100%)
+    background: linear-gradient(180deg, #ffffff 0%, #b5dcef 100%)
     
+  .home__eagle
+    opacity: 0
+
   .hero__fade
     height: 0px
 
+  .home__don_container 
+    padding: 70px
 @media (max-width: 400px)
   .home__tagline
     font-size: 65px

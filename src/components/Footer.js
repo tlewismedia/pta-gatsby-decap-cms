@@ -7,31 +7,9 @@ const Footer = () => {
     <footer>
       <div className="foot__top">
         <div className="foot__container">
-          <h2>Support Creston</h2>
-
           <div className="foot__support_lists">
             <ul>
-              <li>
-                <Link className="" to="/get-involved/volunteer">
-                  Volunteer
-                </Link>
-              </li>
-              <li>
-                <Link
-                  className="foot__support_lists_back"
-                  to="https://www.pps.net/domain/66"
-                >
-                  Background Check
-                </Link>
-              </li>
-              <li>
-                <Link className="" to="/get-involved/fundraise">
-                  Fundraise
-                </Link>
-              </li>
-            </ul>
-
-            <ul>
+              <h2>Support Creston</h2>
               <li>
                 <Link
                   className=""
@@ -41,6 +19,26 @@ const Footer = () => {
                 </Link>
               </li>
 
+              <li>
+                <Link className="" to="/get-involved/volunteer">
+                  Volunteer
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  className="foot__support_lists_back"
+                  to="https://www.pps.net/domain/66"
+                >
+                  Background Check
+                </Link>
+              </li>
+
+              <li>
+                <Link className="" to="/get-involved/fundraise">
+                  Fundraise
+                </Link>
+              </li>
               <li>
                 <Link className="" to="/get-involved/community-meetings">
                   Community Meetings
@@ -52,18 +50,77 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="" to="https://creston.memberhub.com/store">
-                  Shop Creston Store
+                <Link className="" to="/get-involved/become-a-member">
+                  Shop Our Store
                 </Link>
               </li>
             </ul>
 
             <ul>
+              <h2>Resources</h2>
               <li>
-                <Link to="/about">About Us</Link>
+                <Link className="" to="/programs/ccma">
+                  Mutual Aid (CCMA)
+                </Link>
               </li>
               <li>
-                <Link to="/contact/examples">Contact</Link>
+                <Link className="" to="/programs/food-family-resources">
+                  Food and Family
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/programs/after-school-care">
+                  After School Care
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/programs/creston-sun">
+                  Creston SUN
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/programs/kinder-new-families">
+                  Kinder and New Families
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/programs/learning-gardens">
+                  Learning Gardens
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/programs/dei-diversity-equity-and-inclusion">
+                  Diversity, Equity, Inclusion
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="programs/advocacy">
+                  Safe Routes to School
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="programs/creston-library">
+                  Creston Library
+                </Link>
+              </li>
+            </ul>
+
+            <ul>
+              <h2>About</h2>
+              <li>
+                <Link className="" to="/about/about-creston-pta">
+                  PTA
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/about/about-creston-school">
+                  Our School
+                </Link>
+              </li>
+              <li>
+                <Link className="" to="/contact">
+                  <h2>Contact Us</h2>
+                </Link>
               </li>
             </ul>
 

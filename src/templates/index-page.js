@@ -29,7 +29,7 @@ export const IndexPageTemplate = ({
               <br /> we soar
             </div>
 
-            <Link className="btn" to="/about-creston-pta">
+            <Link className="btn" to="/about/about-creston-pta">
               Learn about PTA
             </Link>
           </div>
@@ -86,33 +86,29 @@ export const IndexPageTemplate = ({
 
       <div className="home__donate">
         <div className="home__don_container">
-          <div className="home__don_text">Donate to Creston PTA</div>
+          <div className="home__don_text">Donate to Creston&nbsp;PTA</div>
 
           <Link
             className="home__don_btn"
             to="https://app.memberhub.gives/monthly-giving"
           >
-            <button className="btn">Donate</button>
+            <button className="btn">Donate&nbsp;</button>
           </Link>
 
           {/* <button className="btn">Donate</button> */}
           {/* <button className="btn btn-alt">Become a Monthly Doner</button> */}
-        </div>
+          {/*} </div>
       </div>
 
-      {/*<div className="home__eagle_art">
+      <div className="home__eagle_art">
         <div className="home__eagle_art_container">
-          <div className="home__eagle_art_left"></div>
-
-          <div className="home__eagle_art_right">
-            <div className="eagle_art">
+          <div className="eagle_art">
             <img src="/img/eagle_art.png" alt="eagle" />
           </div>
+        </div> */}
         </div>
-  </div>*/}
-    
+      </div>
     </div>
-  
   );
 };
 

@@ -20,4 +20,4 @@ Meeting Agendas, past meeting minutes and other PTA file archives can be viewed 
 * Updates on PTA events, fundraisers and other efforts
 * Guest speakers and presentations on a variety of topics.
 
-Learn more about [Creston PTA.](https://inquisitive-lolly-d1ee77.netlify.app/admin/#/collections/about/entries/about-creston-pta)
+Learn more about [Creston PTA.](/about/about-creston-pta)

@@ -44,7 +44,8 @@ export default class Index extends React.Component {
         ></iframe>
 
         <div className="con__address">
-          Creston School 4701 SE Bush St. Portland, OR 97206
+          Creston&nbsp;School 4701&nbsp;SE&nbsp;Bush&nbsp;St.
+          Portland,&nbsp;OR&nbsp;97206
         </div>
 
         <div className="con__phone">503.916.6340</div>

@@ -10,6 +10,6 @@ When is my library day? [Creston Library Info.doc](https://docs.google.com/docum
 
 Learn more on the [Creston Library Website.](https://sites.google.com/pps.net/crestonk8library/home)
 
-## MEET OUR TEACHER LIBRARIAN, Ms. Jackie!
+## MEET OUR TEACHER LIBRARIAN, Ms. Jackie
 
 <img src="/img/ms.-jackie.jpeg" alt="drawing" style="width:400px; margin: auto; display: block"/>

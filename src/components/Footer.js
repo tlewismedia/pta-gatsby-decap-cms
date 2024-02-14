@@ -15,10 +15,17 @@ const Footer = () => {
                   className=""
                   to="https://app.memberhub.gives/monthly-giving"
                 >
-                  Donate to PTA
+                  Donate
                 </Link>
               </li>
-
+              <li>
+                <Link
+                  className=""
+                  to="https://app.memberhub.gives/monthly-giving"
+                >
+                  Join Monthly Giving
+                </Link>
+              </li>
               <li>
                 <Link className="" to="/get-involved/volunteer">
                   Volunteer
@@ -89,7 +96,10 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="" to="/programs/dei-diversity-equity-and-inclusion">
+                <Link
+                  className=""
+                  to="/programs/dei-diversity-equity-and-inclusion"
+                >
                   Diversity, Equity, Inclusion
                 </Link>
               </li>
@@ -145,7 +155,7 @@ const Footer = () => {
       </div>
 
       <div className="foot__bottom">
-        <div className="foot__container">2024 Creston School PTA</div>
+        <div className="foot__container">&#169; 2024 Creston School PTA</div>
       </div>
     </footer>
   );

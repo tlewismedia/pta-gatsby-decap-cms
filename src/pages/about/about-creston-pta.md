@@ -29,7 +29,7 @@ Creston PTA is committed to engaging parents in meaningful ways, so that familie
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 
-Learn more about [PTA membership.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/become-a-member)
+Learn more about [PTA membership.](/get-involved/become-a-member)
 
 [Become a member or renew annual membership.](https://creston.memberhub.com/store?category=Memberships)
 
@@ -39,9 +39,8 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 * Organize community building events (movie nights, ice cream socials, etc.)
 * Organize educational events like STEAM Night.
-* Organize fundraising events (Run for the Eagles, fall wreath and spring plant sales) Learn more about [our fundraisers.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/fundraise)
-* Volunteer in classrooms, the lunch room, in the gardens, on committees, etc. Learn more about [volunteering.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/volunteer)
-* [](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/volunteer)Organize volunteers to support [food and family security programs](https://inquisitive-lolly-d1ee77.netlify.app/programs/food-family-resources) like Urban Gleaners, food drives, and the PPS Clothing Closet.
+* Organize fundraising events (Run for the Eagles, fall wreath and spring plant sales) Learn more about [our fundraisers.](/get-involved/fundraise)
+* Volunteer in classrooms, the lunch room, in the gardens, on committees, etc. Learn more about [volunteering.](/get-involved/volunteer)Organize volunteers to support [food and family security programs](/programs/food-family-resources) like Urban Gleaners, food drives, and the PPS Clothing Closet.
 * Search and apply for grants and other funding sources to pay for programs like Grow Portland and events like the Walking and Bike Fair.
 * Allocate donations to programs and materials that support student success.
 * Advocate for students and teachers as related to specific needs for support within the school community such as Safe Routes to School.

@@ -23,7 +23,7 @@ Creston PTA hosts a variety of fun events and committees but needs your help to 
 
 Email volunteercoordinator@crestonschoolpta.org to get involved!
 
-[Learn more about our fundraisers.](https://inquisitive-lolly-d1ee77.netlify.app/get-involved/fundraise)
+[Learn more about our fundraisers.](/get-involved/fundraise)
 
 ## BACKGROUND CHECK
 

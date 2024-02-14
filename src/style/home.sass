@@ -44,21 +44,24 @@
   font-family: 'Darumadrop One', sans-serif
   font-size: 110px
   line-height: .8
-  margin-bottom: 80px
-  margin-left: 25px
+  margin: 20px 25px 80px 25px
   color: $primary
 
-.home__sub-tagline
-  font-family: 'open sans', sans-serif
-  font-size: 13px
-  letter-spacing: 6px
-  margin-bottom: 15px
-  margin-top: 0px
-  color: #485e68
-  opacity: .5
-  text-transform: uppercase
-  font-weight: 1000
-  margin-left: 29px
+.home__tagline-second
+  color: #337190
+
+
+// .home__sub-tagline
+//   font-family: 'open sans', sans-serif
+//   font-size: 13px
+//   letter-spacing: 6px
+//   margin-bottom: 15px
+//   margin-top: 0px
+//   color: $primary
+//   opacity: 0
+//   text-transform: uppercase
+//   font-weight: 1000
+//   margin-left: 29px
   
 
 .home__hero-left
@@ -75,12 +78,12 @@
   position: absolute
   left: 279px
   top: -35px
-  opacity: .3
+  opacity: 0
   scale: .6
 
 .home_kids
   margin-right: -89px
-
+  
 
 
 // SUPPORT **********************************
@@ -160,7 +163,7 @@
 
 .home__don_container
   @include page-row-container
-  padding: 38px 100px 40px 100px
+  padding: 30px 120px 40px 120px
   justify-content: space-evenly
   align-items: center
   
@@ -170,6 +173,16 @@
   letter-spacing: .5px
   color: white
   
+
+.home__don_text p
+  font-size: 17px
+  margin-top: 20px
+  margin-bottom: 0px
+  line-height: .5
+  font-weight: 400
+  color: #6f98c1
+  font-family: open sans
+
 .home__don_btn .btn
   cursor: pointer
   
@@ -223,7 +236,7 @@
 @media (max-width: 1000px)
   .home__tagline
     font-size: 85px
-    margin-top: 10px
+    margin-top: 40px
     margin-bottom: 60px
 
   .home__eagle
@@ -231,11 +244,17 @@
     left: 245px
     top: -30px
     
-  .btn    
-    margin-left: 30px 
 
 
+@media (max-width: 960px)
+  .home__don_container
+    flex-direction: column
+    align-items: center
+    text-align: center
+    padding: 50px
     
+  .home__don_text
+    margin-bottom: 25px
 
 @media (max-width: 900px)
   .home__hero-container
@@ -260,9 +279,10 @@
 
   .home__tagline
     font-size: 80px
-    margin-left: 10px
-    margin-top: 0px
-    
+    margin-left: 30px
+    margin-top: 50px
+
+  
   .home__sub-tagline
     opacity: 0 
 
@@ -270,7 +290,7 @@
     position: absolute
     left: 52%
     top: -84px
-    opacity: .3
+    opacity: 0
   
   .home__sup_container 
     padding-bottom: 20px
@@ -300,16 +320,6 @@
     // height: 160px
  
 
-  .home__don_container
-    flex-direction: column
-    align-items: center
-    text-align: center
-    padding: 40px
-    
-  .home__don_text
-    margin-bottom: 25px
-    
-
   .foot__container
     flex-direction: column
     padding: 30px, 80px
@@ -333,9 +343,16 @@
   .foot__right_lists
     width: 100%
 
+@media (max-width: 650px)
+  .home__don_container 
+    padding: 70px 50px 75px 
+
+  .home__don_text
+    margin-bottom: 40px
+
 @media (max-width: 500px)
   .home__tagline
-    margin-top: -40px
+    margin-top: -10px
     
   .home__hero
     background: #e9f4fc
@@ -348,10 +365,7 @@
     height: 0px
 
   .home__don_container 
-    padding: 70px 80px 100px 70px
-
-  .home__don_text
-    margin-bottom: 40px
+    padding: 70px 15px 75px 
 
 @media (max-width: 400px)
   .home__tagline

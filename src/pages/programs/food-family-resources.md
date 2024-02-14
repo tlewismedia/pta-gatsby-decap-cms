@@ -42,7 +42,7 @@ Learn more at the [Urban Gleaners Website.](https://urbangleaners.org)
 
 Creston Community Mutual Aid (CCMA) is a volunteer-led organization that collects and distributes donations directly to families who need help with expenses like rent, utilities, and childcare. 
 
-Learn more about [CCMA.](https://inquisitive-lolly-d1ee77.netlify.app/programs/ccma)
+Learn more about [CCMA.](/programs/ccma)
 
 ## **COMMUNITY CLOTHING CLOSET**
 

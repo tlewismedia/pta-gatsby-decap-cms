@@ -18,4 +18,4 @@ Learn more at the [Champions website.](https://www.discoverchampions.com/our-loc
 
 ![logo](/img/sun.gif)
 
-Creston SUN provides free (donations are greatly appreciated!) after school enrichment classes starting in mid-October. Registration is per term and spots are limited. Learn more about [Creston SUN.](https://inquisitive-lolly-d1ee77.netlify.app/programs/creston-sun)
+Creston SUN provides free (donations are greatly appreciated!) after school enrichment classes starting in mid-October. Registration is per term and spots are limited. Learn more about [Creston SUN.](/programs/creston-sun)

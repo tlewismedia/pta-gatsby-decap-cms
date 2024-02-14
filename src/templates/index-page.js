@@ -22,11 +22,12 @@ export const IndexPageTemplate = ({
       <div className="home__hero">
         <div className="home__hero-container">
           <div className="home__hero-left">
-            <div className="home__sub-tagline">Creston School PTA</div>
+            {/* <div className="home__sub-tagline">Creston School PTA</div> */}
 
             <div className="home__tagline">
               Together
-              <br /> we soar
+              <br />
+              <div className="home__tagline-second">we soar</div>
             </div>
 
             <Link className="btn" to="/about/about-creston-pta">
@@ -86,13 +87,15 @@ export const IndexPageTemplate = ({
 
       <div className="home__donate">
         <div className="home__don_container">
-          <div className="home__don_text">Donate to Creston&nbsp;PTA</div>
+          <div className="home__don_text">
+            <h2>Join Our&nbsp;Monthly Giving&nbsp;Program</h2>
+          </div>
 
           <Link
             className="home__don_btn"
             to="https://app.memberhub.gives/monthly-giving"
           >
-            <button className="btn">Donate&nbsp;</button>
+            <button className="btn">Join&nbsp;Now</button>
           </Link>
 
           {/* <button className="btn">Donate</button> */}

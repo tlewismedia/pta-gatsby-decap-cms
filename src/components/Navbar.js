@@ -19,10 +19,18 @@ const Navbar = () => {
                 className=""
                 to="https://creston.memberhub.com/store?limit=21&live=true&category=Donations"
               >
-                Donate
+                Donate &#8594;
               </Link>
             </div>
 
+            <div className="nav__sub-link">
+              <Link
+                className=""
+                to="https://app.memberhub.gives/monthly-giving"
+              >
+                Join Monthly Giving
+              </Link>
+            </div>
             <div className="nav__sub-link">
               <Link className="" to="/get-involved/volunteer">
                 Volunteer
@@ -49,7 +57,7 @@ const Navbar = () => {
 
             <div className="nav__sub-link">
               <Link className="" to="https://creston.memberhub.com/store">
-                Shop the Creston Store
+                Shop Our Store
               </Link>
             </div>
           </div>

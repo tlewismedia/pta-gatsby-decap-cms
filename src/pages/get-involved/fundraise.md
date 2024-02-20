@@ -19,7 +19,7 @@ Our goal for 2023-24 is to raise **$25,000** and you can help us get there! No m
 
 ## WAYS YOU CAN HELP
 
-* [Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://creston.memberhub.com/store?limit=21&live=true&category=Memberships)
+* [Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://app.memberhub.gives/monthly-giving)
 * Participate in fundraising events (Run for the Eagles, wreath and plant sales)
 * Donate cans through the BottleDrop program
 * Monthly Dine Out events
@@ -30,7 +30,7 @@ Our goal for 2023-24 is to raise **$25,000** and you can help us get there! No m
 
 Your cash contribution to Creston School PTA is tax deductible. This is the most direct and effective way to support our programming and educational enhancements. Consider being a monthly supporter by setting up recurring donations. Set it, forget it, and make a big impact!
 
-[Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://creston.memberhub.com/store?limit=21&live=true&category=Memberships)
+[Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://app.memberhub.gives/monthly-giving)
 
 ### Corporate Matching
 

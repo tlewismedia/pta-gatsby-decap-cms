@@ -26,6 +26,6 @@ When you ask your child what they did at school and you get the typical “nothi
 
 ## Art
 
-### Meet our art teacher, Kendra Meyer
+### Meet our art teacher, Ms. Meyer
 
 See what Creston artists are making on [Instagram.]([https://www.instagram.com/​creston_artists/](https://www.instagram.com/creston_artists/))[](https://www.instagram.com/creston_artists/)

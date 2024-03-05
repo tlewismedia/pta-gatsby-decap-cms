@@ -49,7 +49,7 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
 
-**President** - Jenna Charton, president@crestonschoolpta.org
+**President -** Jenna Charton, president@crestonschoolpta.org
 
 **Vice President** - Jennica Stephenson, vicepresident@crestonschoolpta.org
 

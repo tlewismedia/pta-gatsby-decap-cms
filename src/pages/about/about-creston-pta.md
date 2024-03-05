@@ -7,7 +7,7 @@ image: /img/about-pta.jpg
 
 PTA (Parent Teacher Association) is the largest volunteer child advocacy association in the nation. It works on behalf of it’s members to unite parents, teachers, and the community for the common good of ALL children.  
 
-Creston PTA is a registered 501(c)(3) nonprofit association, which means your donations are tax deductible.
+Creston PTA is a registered 501(c)(3) nonprofit association so your donations are tax deductible.
 
 Learn more about the [National PTA](https://www.pta.org) and [Oregon PTA.](https://www.oregonpta.org)
 

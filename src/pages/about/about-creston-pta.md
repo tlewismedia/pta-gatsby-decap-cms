@@ -31,7 +31,7 @@ We invite you to join Creston PTA! Members aren’t obligated to attend meetings
 
 Learn more about [PTA membership.](/get-involved/become-a-member)
 
-[Become a member or renew annual membership.](https://creston.memberhub.com/store?category=Memberships)
+[Become a member](https://creston.memberhub.com/store?category=Memberships) or [renew annual membership.](https://creston.memberhub.com/store?category=Memberships)
 
 ## WHAT WE DO
 
@@ -49,23 +49,23 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
 
-**Jenna Charton** - President - president@crestonschoolpta.org
+**President** - Jenna Charton, president@crestonschoolpta.org
 
-**Jennica Stephenson** - Vice President - vicepresident@crestonschoolpta.org
+**Vice President** - Jennica Stephenson, vicepresident@crestonschoolpta.org
 
-**Amber Porter** - Secretary - secretary@crestonschoolpta.org
+**Secretary** - Amber Porter, secretary@crestonschoolpta.org
 
-**Tanya Gilbert** - Treasurer - treasurer@crestonschoolpta.org
+**Treasurer** - Tanya Gilbert, treasurer@crestonschoolpta.org
 
-**Laura Bartroff** - Fundraising Chair - fundraising@crestonschoolpta.org
+**Fundraising Chair** - Laura Bartroff, fundraising@crestonschoolpta.org
 
-**Wendy Haile** - Volunteer & Membership Chair - volunteercoordinator@crestonschoolpta.org
+**Volunteer & Membership Chair** - Wendy Haile, volunteercoordinator@crestonschoolpta.org
 
-**Josh Roll** - Health & Safety Chair - healthandsafety@crestonschoolpta.org
+**Health & Safety Chair** - Josh Roll, healthandsafety@crestonschoolpta.org
 
-**Xochilth Franklin** - DEI Co-Chair - socialjustice@crestonschoolpta.org
+**DEI Co-Chair** - Xochilth Franklin, socialjustice@crestonschoolpta.org
 
-**Jan Snyder** - DEI Co-Chair - socialjustice@crestonschoolpta.org
+**DEI Co-Chair** - Jan Snyder, socialjustice@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
 

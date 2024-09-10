@@ -23,4 +23,4 @@ The PTA hosts a school wide ice cream social and a meet and greet event for new 
 
 ## GET INVOLVED WITH PTA
 
-Getting involved in the PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our volunteer page to find out how you can get involved!
+Getting involved in the PTA is a great way to get to know your community and make new friends! Come to a community meeting, join a committee that aligns with your interests, or volunteer. Check out our [volunteer page](https://crestonschoolpta.org/get-involved/volunteer) to find out how you can get involved!

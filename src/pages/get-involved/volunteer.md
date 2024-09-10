@@ -8,11 +8,11 @@ image: /img/volunteer.jpg
 
 Creston PTA hosts a variety of fun events and committees but needs your help to keep them going! Whether you have a lot of time or only one hour, your help has a meaningful impact on our community. Thank you in advance for your participation!
 
-Check out our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app.
-
 ![A painting of 2 orange hands with a red heart in the middle.](/img/rod-long-89bqbucvjdw-unsplash.jpg)
 
 ## Volunteer Opportunities
+
+View and join our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app or email volunteercoordinator@crestonschoolpta.org to get involved!
 
 * **BottleDrop Donation Program –** Bring bags of cans to a donation site. This is the perfect role for someone with a truck.
 * **Creston Run for the Eagles –** Plan and/or volunteer to track laps and collect pledge forms at this fun annual fundraising event.
@@ -22,8 +22,6 @@ Check out our current [volunteer committees](https://www.konstella.com/app/schoo
 * **Sustainability Committee –** Help keep Creston green! This group is in charge of our school gardens and other sustainability projects. 
 * **Health and Safety –** Work with the board and school leadership on issues related to the health and safety of our kids. 
 * **Lecture Series –** Help plan, organize and execute our new series of speakers and discussion in our community. Lectures take place after the business of each general meeting.
-
-Email volunteercoordinator@crestonschoolpta.org to get involved!
 
 [Learn more about our fundraisers.](/get-involved/fundraise)
 

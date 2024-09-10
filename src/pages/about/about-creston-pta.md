@@ -40,7 +40,7 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 * Organize community building events (movie nights, ice cream socials, etc.)
 * Organize educational events like STEAM Night.
 * Organize fundraising events (Run for the Eagles, fall wreath and spring plant sales) Learn more about [our fundraisers.](/get-involved/fundraise)
-* Volunteer in classrooms, the lunch room, in the gardens, on committees, etc. Learn more about [volunteering.](/get-involved/volunteer)Organize volunteers to support [food and family security programs](/programs/food-family-resources) like Urban Gleaners, food drives, and the PPS Clothing Closet.
+* Volunteer in classrooms, the lunch room, in the gardens, on committees, etc. Learn more about volunteering. Organize volunteers to support [food and family security programs](/programs/food-family-resources) like Urban Gleaners, food drives, and the PPS Clothing Closet.
 * Search and apply for grants and other funding sources to pay for programs like Grow Portland and events like the Walking and Bike Fair.
 * Allocate donations to programs and materials that support student success.
 * Advocate for students and teachers as related to specific needs for support within the school community such as Safe Routes to School.
@@ -69,26 +69,25 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ![A laptop, iphone, and calendar on a desk.](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
-Find out about upcoming community meetings and other PTA events on the [PTA Google Calendar.](https://docs.google.com/document/d/1U72VrbXZogQfWjhSpkGIgCbnf2ZjnC2gQO6gT_n0gMg/edit?usp=sharing)
+Find out about upcoming community meetings and other PTA events on the [PTA Google Calendar](https://docs.google.com/document/d/1U72VrbXZogQfWjhSpkGIgCbnf2ZjnC2gQO6gT_n0gMg/edit?usp=sharing) or [Konstella Calendar.](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/calendar)
 
 PTA file archives can be viewed in the public Givebacks (formerly known as MemberHub) file folder. You will need a Creston Givebacks account to view this content.
 
-[Community Meeting Minutes Archive](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs)
+[Community Meeting Minutes and PTA Newsletter Archive](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs)
 
-PTA Newsletter Archive
+## KONSTELLA
 
-## GIVEBACKS
+Starting in the 2024-25 school year, the PTA is using the Konstella app (transitioning away from Givebacks) as our main platform for communicating with families, volunteering, and fundraising. If you have questions about your Konstella account, please reach out to Wendy Haile at [volunteercoordinator@​crestonschoolpta.org](mailto:volunteercoordinator@crestonschoolpta.org).
 
-Givebacks is the PTA’s main platform for communicating with families and fundraising. 
+The Konstella app can be used to:
 
-The PTA uses Givebacks for:
+* Message other family members in your students’ class and join family groups with shared interests
+* Volunteer for events and join committees
+* Purchase PTA memberships and make donations
+* Purchase items during fundraisers and shop Creston merchandise
+* View past and current PTA monthly newsletters and calendar 
 
-* Monthly Newsletters
-* Event and fundraising reminders
-* PTA memberships and donations
-* Fundraising sales such as wreaths, plants, and school swag
-
-If you have questions about your Givebacks account, please reach out to volunteercoordinator@crestonschoolpta.org.
+If you have questions about your Konstella account, please reach out to Wendy Haile at [volunteercoordinator@​crestonschoolpta.org](mailto:volunteercoordinator@crestonschoolpta.org).
 
 ## Follow us
 

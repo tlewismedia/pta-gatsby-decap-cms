@@ -71,7 +71,7 @@ Josh Roll, healthandsafety@crestonschoolpta.org
 
 ### **DEI Chair**
 
-VACANT, We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
+**VACANT,** We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
 
 !["You belong in PTA" graphic.](/img/pta-creates-supports-amplifies-tw.png)
 

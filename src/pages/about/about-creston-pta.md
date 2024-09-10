@@ -23,9 +23,59 @@ Research shows that **children whose parents and families are engaged in and hol
 
 Creston PTA is committed to engaging parents in meaningful ways, so that families can actively support their children’s and adolescent's learning and development.
 
-## MEMBERSHIP 
+## PTA BOARD MEMBERS
+
+Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
+
+### **President**
+
+Jenna Charton, president@crestonschoolpta.org
+
+![photo of Jenna Charton](/img/img_5118.jpeg)
+
+### **Vice President**
+
+Jennica Stephenson, vicepresident@crestonschoolpta.org
+
+![Photo of Jennica Stephenson.](/img/img_5123.jpeg)
+
+### **Secretary**
+
+Amber Porter, secretary@crestonschoolpta.org
+
+![Photo of Amber Porter.](/img/img_5116.jpeg)
+
+### **Treasurer**
+
+Tanya Gilbert, treasurer@crestonschoolpta.org
+
+![Photo of Tanya Gilbert.](/img/img_5121.jpeg)
+
+### **Fundraising Chair**
+
+Laura Bartroff, fundraising@crestonschoolpta.org
+
+![Photo of Laura Bartroff.](/img/img_5127.jpeg)
+
+### **Volunteer & Membership Chair**
+
+Wendy Haile, volunteercoordinator@crestonschoolpta.org
+
+![Photo of Wendy Haile.](/img/img_5126.jpeg)
+
+### **Health & Safety Chair**
+
+Josh Roll, healthandsafety@crestonschoolpta.org
+
+![Photo of Josh Roll.](/img/img_5128.jpeg)
+
+### **DEI Chair**
+
+VACANT, We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
 
 !["You belong in PTA" graphic.](/img/pta-creates-supports-amplifies-tw.png)
+
+## MEMBERSHIP 
 
 We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 
@@ -44,26 +94,6 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 * Search and apply for grants and other funding sources to pay for programs like Grow Portland and events like the Walking and Bike Fair.
 * Allocate donations to programs and materials that support student success.
 * Advocate for students and teachers as related to specific needs for support within the school community such as Safe Routes to School.
-
-## PTA BOARD MEMBERS
-
-Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
-
-**President -** Jenna Charton, president@crestonschoolpta.org
-
-**Vice President** - Jennica Stephenson, vicepresident@crestonschoolpta.org
-
-**Secretary** - Amber Porter, secretary@crestonschoolpta.org
-
-**Treasurer** - Tanya Gilbert, treasurer@crestonschoolpta.org
-
-**Fundraising Chair** - Laura Bartroff, fundraising@crestonschoolpta.org
-
-**Volunteer & Membership Chair** - Wendy Haile, volunteercoordinator@crestonschoolpta.org
-
-**Health & Safety Chair** - Josh Roll, healthandsafety@crestonschoolpta.org
-
-**DEI Chair** - VACANT, We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
 

@@ -6,7 +6,7 @@ image: /img/food-and-family-resources-urban-gleaners-.jpg
 ---
 ## WE’RE HERE TO HELP!
 
-If you need assistance, please reach out to our school social worker.
+If you need assistance, please reach out to Lisa or Chris in the front office of Creston School for more information.
 
 Joanna Z. Albergo, LCSW
 

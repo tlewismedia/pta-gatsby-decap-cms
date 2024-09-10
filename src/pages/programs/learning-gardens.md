@@ -23,4 +23,4 @@ Learn more at the [Grow Portland Website.](https://www.growportland.org/program-
 
 ## Garden and Sustainability Committee
 
-The Garden and Sustainability committee is co-led by two Creston community members, Chelsea and Michael, under close guidance from Mr. Max of GROW Portland. This committee organizes garden work parties, summer watering, and other sustainability efforts at Crestons. To get involved, email sustainability@crestonschoolpta.org.
+The Garden and Sustainability committee is co-led by two Creston community members, Chelsea and Michael, under close guidance from Mr. Max of GROW Portland. This committee organizes garden work parties, summer watering, and other sustainability efforts at Creston. To get involved, email sustainability@crestonschoolpta.org.

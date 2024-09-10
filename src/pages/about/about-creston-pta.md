@@ -25,7 +25,11 @@ Creston PTA is committed to engaging parents in meaningful ways, so that familie
 
 ## PTA BOARD MEMBERS
 
-Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
+Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Learn more about us: 
+
+![]()
+
+Interested in becoming a board member? Contact our current PTA President.
 
 ### **President**
 

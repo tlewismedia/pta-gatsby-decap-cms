@@ -8,14 +8,6 @@ image: /img/food-and-family-resources-urban-gleaners-.jpg
 
 If you need assistance, please reach out to Lisa or Chris in the front office of Creston School for more information.
 
-Joanna Z. Albergo, LCSW
-
-Available Tuesdays, Wednesdays, and Thursdays
-
-jalbergo@pps.net
-
-(503) 916-6340 ext 72427
-
 ## FREE BREAKFAST AND LUNCH
 
 All Creston students regardless of income currently receive free breakfast and lunch through PPS Meal Support.

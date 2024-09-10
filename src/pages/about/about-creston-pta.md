@@ -23,60 +23,6 @@ Research shows that **children whose parents and families are engaged in and hol
 
 Creston PTA is committed to engaging parents in meaningful ways, so that families can actively support their children’s and adolescent's learning and development.
 
-## PTA BOARD MEMBERS
-
-Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Learn more about us: 
-
-![]()
-
-Interested in becoming a board member? Contact our current PTA President.
-
-### **President**
-
-Jenna Charton, president@crestonschoolpta.org
-
-![photo of Jenna Charton](/img/img_5118.jpeg)
-
-### **Vice President**
-
-Jennica Stephenson, vicepresident@crestonschoolpta.org
-
-![Photo of Jennica Stephenson.](/img/img_5123.jpeg)
-
-### **Secretary**
-
-Amber Porter, secretary@crestonschoolpta.org
-
-![Photo of Amber Porter.](/img/img_5116.jpeg)
-
-### **Treasurer**
-
-Tanya Gilbert, treasurer@crestonschoolpta.org
-
-![Photo of Tanya Gilbert.](/img/img_5121.jpeg)
-
-### **Fundraising Chair**
-
-Laura Bartroff, fundraising@crestonschoolpta.org
-
-![Photo of Laura Bartroff.](/img/img_5127.jpeg)
-
-### **Volunteer & Membership Chair**
-
-Wendy Haile, volunteercoordinator@crestonschoolpta.org
-
-![Photo of Wendy Haile.](/img/img_5126.jpeg)
-
-### **Health & Safety Chair**
-
-Josh Roll, healthandsafety@crestonschoolpta.org
-
-![Photo of Josh Roll.](/img/img_5128.jpeg)
-
-### **DEI Chair**
-
-**VACANT,** We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
-
 !["You belong in PTA" graphic.](/img/pta-creates-supports-amplifies-tw.png)
 
 ## MEMBERSHIP 
@@ -87,7 +33,13 @@ Learn more about [PTA membership.](/get-involved/become-a-member)
 
 [Become a member](https://creston.memberhub.com/store?category=Memberships) or [renew annual membership.](https://creston.memberhub.com/store?category=Memberships)
 
-## WHAT WE DO
+## PTA BOARD MEMBERS
+
+Our PTA board consists of 9 elected members. Learn more about our [PTA Board Members](https://crestonschoolpta.org/about/PTA-board-members).
+
+Interested in becoming a board member? Contact our current PTA President.
+
+### WHAT WE DO
 
 You don’t need to have a PTA membership to be involved! Here are some of the many things we do to support the Creston community:
 

@@ -75,7 +75,7 @@ PTA file archives can be viewed in the public Givebacks (formerly known as Membe
 
 [Community Meeting Minutes Archive](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs)
 
-[PTA Newsletter Archive](https://creston.memberhub.com/files/Newsletters)
+PTA Newsletter Archive
 
 ## GIVEBACKS
 

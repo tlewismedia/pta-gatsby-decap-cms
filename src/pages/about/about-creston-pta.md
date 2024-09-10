@@ -63,9 +63,7 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 **Health & Safety Chair** - Josh Roll, healthandsafety@crestonschoolpta.org
 
-**DEI Co-Chair** - Xochilth Franklin, socialjustice@crestonschoolpta.org
-
-**DEI Co-Chair** - Jan Snyder, socialjustice@crestonschoolpta.org
+**DEI Chair** - VACANT, We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
 
 ## STAY IN THE LOOP 
 

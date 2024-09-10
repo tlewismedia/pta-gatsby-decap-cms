@@ -5,6 +5,8 @@ image: /img/safe-routes-to-school.jpg
 ---
 ## Safe Routes to School
 
+Safe Routes to School is an ongoing committee that takes on pedestrian and bike safety advocacy, along with planning our annual Creston Walk + Bike Fair. Contact Josh at healthandsafety@crestonschoolpta.org to get involved or learn more about advocacy efforts.
+
 Part of our school catchment area is north of SE Powell Blvd. Many families live close enough to walk or bike but doing so means crossing a high-crash corridor. Along with other schools and organizations we have been making our voices heard and making some progress.
 
 ## UPDATE: September 2023

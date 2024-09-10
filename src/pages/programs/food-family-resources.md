@@ -24,13 +24,13 @@ All Creston students regardless of income currently receive free breakfast and l
 
 ![Urban Gleaners logo](/img/urban-gleaners-logo.png)
 
-Urban Gleaners offers our community free groceries every Wednesday at 2:45PM at the front of the school to help with food insecurity and reduce food waste. Food is offered to all community members regardless of income.
+Urban Gleaners offers our community free groceries every **Tuesday at 1:30pm** at the front of the school to help with food insecurity and reduce food waste. Food is offered to all community members regardless of income.
 
 Reminders and cancellations are emailed weekly via Givebacks. You can find more distribution locations on the Urban Gleaners website.
 
 This weekly event is only made possible with your help! Volunteers set up food tables, greet the community, and help with clean up.
 
-[VOLUNTEER NOW](https://www.signupgenius.com/go/70a094eabad2aa4f94-urban#/) for Urban Gleaners.
+[VOLUNTEER NOW](https://www.signupgenius.com/go/30E0C4DAEAF29A2FF2-50092045-creston#/) for Urban Gleaners.
 
 Learn more about Urban Gleaners in this short video:
 

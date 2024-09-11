@@ -20,7 +20,7 @@ Urban Gleaners offers our community free groceries every **Wednesday at 2:30pm**
 
 This weekly event is only made possible with your help! Volunteers set up food tables, greet the community, and help with clean up.
 
-VOLUNTEER NOW for Urban Gleaners.
+[VOLUNTEER NOW](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/recurring-signups/66d1372d1b5c8fe8e1fde8c8) for Urban Gleaners.
 
 Learn more about Urban Gleaners in this short video:
 

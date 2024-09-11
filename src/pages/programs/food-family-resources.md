@@ -38,4 +38,4 @@ Learn more about [CCMA.](/programs/ccma)
 
 ![A person holding a pile of folded clothes.](/img/maude-frederique-lavoie-edstj4kcucw-unsplash.jpg)
 
-The Portland Council PTA sponsors a clothing closet that is available for any PPS student who needs clothing support. More information about the program, how to volunteer, and how to donate can be found on the [Portland Council PTA website](https://portlandcouncilpta.org/pta-clothing-center).
+The Portland Council PTA sponsors a clothing closet that is available for any PPS student who needs clothing support. More information about the program, how to volunteer, and how to donate can be found on the [Portland Council PTA website](https://portlandcouncilpta.org/pta-clothing-center). Also, find out about Creston volunteer days on our [volunteer page](https://crestonschoolpta.org/get-involved/volunteer).

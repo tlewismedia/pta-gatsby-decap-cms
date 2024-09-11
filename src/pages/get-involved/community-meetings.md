@@ -8,11 +8,9 @@ image: /img/community-meetings.jpg
 
 Join us at our next community meeting! Everyone is encouraged to attend regardless of PTA membership status, however, membership is needed to cast an official vote on PTA budgets and initiatives.
 
-Find out about upcoming community meetings and other PTA events on the [PTA GOOGLE CALENDAR.](https://calendar.google.com/calendar/u/0/r?cid=c_5u0l6o2gc3gsf7b0ej5cup6gps@group.calendar.google.com)
+Find out about upcoming community meetings and other PTA events on the [PTA Google Calendar](https://docs.google.com/document/d/1U72VrbXZogQfWjhSpkGIgCbnf2ZjnC2gQO6gT_n0gMg/edit?usp=sharing) or on [Konstella](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/calendar).
 
-[PTA Calendar.doc](https://docs.google.com/document/d/1qIB7OYtvODxUKUTlahM98hdTlmCVF44pMNs0r__a1K4/edit?usp=sharing)
-
-Meeting Agendas, past meeting minutes and other PTA file archives can be viewed in the public [Givebacks File Folder](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs). You will need a Creston Givebacks account to view this content.
+Meeting Agendas, past meeting minutes and other PTA file archives can be viewed in the public [Givebacks File Folder](https://creston.givebacks.com/files/2024-2025%20Community%20Meeting%20Documents). You will need a Creston Givebacks account to view this content.
 
 ### MEETING TOPICS:
 

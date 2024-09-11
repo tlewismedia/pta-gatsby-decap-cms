@@ -6,15 +6,7 @@ image: /img/food-and-family-resources-urban-gleaners-.jpg
 ---
 ## WE’RE HERE TO HELP!
 
-If you need assistance, please reach out to our school social worker.
-
-Joanna Z. Albergo, LCSW
-
-Available Tuesdays, Wednesdays, and Thursdays
-
-jalbergo@pps.net
-
-(503) 916-6340 ext 72427
+If you need assistance, please reach out to Lisa or Chris in the front office of Creston School for more information.
 
 ## FREE BREAKFAST AND LUNCH
 
@@ -24,13 +16,11 @@ All Creston students regardless of income currently receive free breakfast and l
 
 ![Urban Gleaners logo](/img/urban-gleaners-logo.png)
 
-Urban Gleaners offers our community free groceries every Wednesday at 2:45PM at the front of the school to help with food insecurity and reduce food waste. Food is offered to all community members regardless of income.
-
-Reminders and cancellations are emailed weekly via Givebacks. You can find more distribution locations on the Urban Gleaners website.
+Urban Gleaners offers our community free groceries every **Wednesday at 2:30pm** at the front of the school to help with food insecurity and reduce food waste. Food is offered to all community members regardless of income. There are pantry and dairy staples along with fresh produce. Bring your shopping bags and join us! Reminders and cancellations are emailed weekly. You can find more distribution locations on the Urban Gleaners website.
 
 This weekly event is only made possible with your help! Volunteers set up food tables, greet the community, and help with clean up.
 
-[VOLUNTEER NOW](https://www.signupgenius.com/go/70a094eabad2aa4f94-urban#/) for Urban Gleaners.
+[VOLUNTEER NOW](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/recurring-signups/66d1372d1b5c8fe8e1fde8c8) for Urban Gleaners.
 
 Learn more about Urban Gleaners in this short video:
 
@@ -48,4 +38,4 @@ Learn more about [CCMA.](/programs/ccma)
 
 ![A person holding a pile of folded clothes.](/img/maude-frederique-lavoie-edstj4kcucw-unsplash.jpg)
 
-The Portland Council PTA sponsors a clothing closet that is available for any PPS student who needs clothing support. More information about the program, how to volunteer, and how to donate can be found on the [Portland Council PTA website](https://portlandcouncilpta.org/pta-clothing-center).
+The Portland Council PTA sponsors a clothing closet that is available for any PPS student who needs clothing support. More information about the program, how to volunteer, and how to donate can be found on the [Portland Council PTA website](https://portlandcouncilpta.org/pta-clothing-center). Also, find out about Creston volunteer days on our [volunteer page](https://crestonschoolpta.org/get-involved/volunteer).

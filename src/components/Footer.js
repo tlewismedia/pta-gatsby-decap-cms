@@ -131,6 +131,7 @@ const Footer = () => {
                 <Link className="foot_support_lists_contact" to="/contact">
                   <h3>Contact Us</h3>
                 </Link>
+                <p>Creston Elem. School<br/>4701 SE Bush St.<br/>Portland, OR 97206</p>
               </li>
             </ul>
 

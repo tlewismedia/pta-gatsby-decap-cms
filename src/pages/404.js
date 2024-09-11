@@ -18,7 +18,8 @@ const NotFoundPage = () => (
     <div style={style}>
       <h1>Oh, the saddness.</h1>
       <p>I scream. You scream. We all scream over broken web pages. We'll get this cleaned up soon.</p>
-    </div>
+      <div img src="/img/404" alt="f"></div>
+    </div>  
   </Layout>
 );
 

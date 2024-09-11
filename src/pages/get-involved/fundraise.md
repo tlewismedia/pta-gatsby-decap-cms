@@ -4,7 +4,7 @@ path: /get-involved
 title: Fundraise
 image: /img/fundraise.jpg
 ---
-## We are community powered!
+https://app.memberhub.gives/monthly-givinghttps://app.memberhub.gives/monthly-givinghttps://app.memberhub.gives/monthly-giving## We are community powered!
 
 PTA raises funds for:
 

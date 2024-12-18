@@ -104,12 +104,12 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="" to="programs/advocacy">
+                <Link className="" to="/programs/advocacy">
                   Safe Routes to School
                 </Link>
               </li>
               <li>
-                <Link className="" to="programs/creston-library">
+                <Link className="" to="/programs/creston-library">
                   Creston Library
                 </Link>
               </li>

@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="nav" role="navigation" aria-label="main-navigation">
       <Link to="/" title="Logo" className="nav__home_button">
-        <img src="../img/pta-logo.svg" alt="Creston PTA Logo" />
+        <img src="/img/pta-logo.svg" alt="Creston PTA Logo" />
       </Link>
 
       <div id="navMenu" className="nav__links">

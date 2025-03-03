@@ -4,8 +4,6 @@ path: /get-involved
 title: Fundraise
 image: /img/fundraise.jpg
 ---
-https://app.memberhub.gives/monthly-givinghttps://app.memberhub.gives/monthly-givinghttps://app.memberhub.gives/monthly-giving## We are community powered!
-
 PTA raises funds for:
 
 * GROW Portland (garden program)
@@ -19,7 +17,7 @@ Our goal for 2024-25 is to raise **$25,000** and you can help us get there! No m
 
 ## WAYS YOU CAN HELP
 
-* [Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://app.memberhub.gives/monthly-giving)
+* ﻿Make a donation (for [Konstella users](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/donations/66d8a2221b5ce153b7dc6ee4) and [Non-Konstella Users](https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8))
 * Participate in fundraising events (Run for the Eagles, wreath and plant sales)
 * Donate cans through the BottleDrop program
 * Monthly Dine Out events
@@ -30,7 +28,7 @@ Our goal for 2024-25 is to raise **$25,000** and you can help us get there! No m
 
 Your cash contribution to Creston School PTA is tax deductible. This is the most direct and effective way to support our programming and educational enhancements. Consider being a monthly supporter by setting up recurring donations. Set it, forget it, and make a big impact!
 
-[Make a donation](https://creston.memberhub.com/store?limit=21&live=true&category=Donations) or [become a monthly supporter](https://app.memberhub.gives/monthly-giving)
+Make a donation (for [Konstella users](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/donations/66d8a2221b5ce153b7dc6ee4) and [Non-Konstella Users](https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8))
 
 ### Corporate Matching
 
@@ -51,13 +49,13 @@ Maximize your donation with corporate matching! Many people don't realize they h
 
 ![A kid tying sneakers.](/img/run-for-eagles.jpg)
 
-Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! [Donate](https://creston.memberhub.com/store?limit=21&live=true) on Memberhub or sign up to [volunteer](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on Konstella.
+Run for the Eagles is an annual spring fundraiser that engages all of our students in physical activity, community, and camaraderie. Creston students will work with their classmates to run, walk, and roll as many laps around the Creston Park paved path as they can. So, lace up your shoes, get your cheer on, and support our school at the Run for the Eagles! Make a donation ([Konstella users](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/donations/66d8a2221b5ce153b7dc6ee4) or [Non-Konstella Users](https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8))[](https://creston.memberhub.com/store?limit=21&live=true) or sign up to [volunteer](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on Konstella.
 
 ### Winter Wreath and Spring Plant Sales
 
 ![A spring flower basket and someone making an evergreen wreath.](/img/artboard-1.png)
 
-Take part in our November Wreath Sale and Spring Plant Sale and help raise funds for the PTA! These popular fundraisers not only benefit our school but also support local small businesses. Ordering online through Memberhub is preferred, however if you need to pay with cash or check, please email [fundraising@crestonschoolpta.org ](mailto:fundraising@crestonschoolpta.org)for a paper form.
+Take part in our November Wreath Sale and Spring Plant Sale and help raise funds for the PTA! These popular fundraisers not only benefit our school but also support local small businesses. 
 
 Find out about upcoming fundraising events on the [PTA Google Calendar.](https://docs.google.com/document/d/1U72VrbXZogQfWjhSpkGIgCbnf2ZjnC2gQO6gT_n0gMg/edit?usp=sharing)
 

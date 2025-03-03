@@ -10,7 +10,11 @@ We invite you to join Creston PTA! Members aren’t obligated to attend meetings
 
 ![PTA graphic](/img/why-join-creston-pta.png)
 
-[Become a PTA Member](https://creston.givebacks.com/store?limit=21&live=true&category=Memberships)
+B﻿ecome a PTA member: 
+
+[Konstella Users](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/sales-sheets/66e26b501b5ce153b81f375b)
+
+[N﻿on-Konstella users](https://www.konstella.com/open/sales/66e26b501b5ce153b81f375b)
 
 ## WHERE DOES THE MONEY GO? 
 
@@ -19,5 +23,3 @@ Joining Creston PTA means you are also joining Oregon PTA and National PTA. Memb
 ![Pie graph showing that Oregon PTA receives $7.27, National PTA receives $2.25, Creston PTA receives $.50.](/img/meta-chart.jpeg)
 
 [PTA Perks](https://www.oregonpta.org/oregon-pta-membership/member-benefits)
-
-[Become a PTA Member](https://creston.givebacks.com/store?limit=21&live=true&category=Memberships)

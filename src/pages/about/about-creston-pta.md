@@ -31,7 +31,11 @@ We invite you to join Creston PTA! Members aren’t obligated to attend meetings
 
 Learn more about [PTA membership.](/get-involved/become-a-member)
 
-[Become a member](https://creston.memberhub.com/store?category=Memberships) or [renew annual membership.](https://creston.memberhub.com/store?category=Memberships)
+B﻿ecome a PTA member: 
+
+[Konstella Users](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/sales-sheets/66e26b501b5ce153b81f375b)
+
+[N﻿on-Konstella users](https://www.konstella.com/open/sales/66e26b501b5ce153b81f375b)
 
 ## PTA BOARD MEMBERS
 

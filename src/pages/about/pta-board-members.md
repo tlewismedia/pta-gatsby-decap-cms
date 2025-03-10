@@ -1,6 +1,6 @@
 ---
 templateKey: generic-page
-title: PTA Board Members
+title: Board Members
 image: /img/community-meetings2.jpg
 ---
 ## **PTA Board Members**

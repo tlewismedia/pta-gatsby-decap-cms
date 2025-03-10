@@ -17,18 +17,18 @@ const Navbar = () => {
             <div className="nav__sub-link">
               <Link
                 className=""
-                to="https://creston.memberhub.com/store?limit=21&live=true&category=Donations"
+                to="https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8"
               >
-                Donate &#8594;
+                Donate
               </Link>
             </div>
 
             <div className="nav__sub-link">
               <Link
                 className=""
-                to="https://app.memberhub.gives/monthly-giving"
+                to="https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8"
               >
-                Join Monthly Giving
+                Monthly Giving
               </Link>
             </div>
             <div className="nav__sub-link">
@@ -52,12 +52,6 @@ const Navbar = () => {
             <div className="nav__sub-link">
               <Link className="" to="/get-involved/become-a-member">
                 Become a Member
-              </Link>
-            </div>
-
-            <div className="nav__sub-link">
-              <Link className="" to="https://creston.memberhub.com/store">
-                Shop Our Store
               </Link>
             </div>
           </div>
@@ -125,7 +119,7 @@ const Navbar = () => {
 
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/programs/creston-library">
-                Creston Library
+                School Specials
               </Link>
             </div>
           </div>
@@ -136,12 +130,17 @@ const Navbar = () => {
           <div className="nav__sub-links">
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/about/about-creston-pta">
-                About PTA
+                PTA
+              </Link>
+            </div>
+            <div className="nav__sub-link">
+              <Link className="nav__sub-link" to="/about/pta-board-members/">
+                Board Members
               </Link>
             </div>
             <div className="nav__sub-link">
               <Link className="nav__sub-link" to="/about/about-creston-school">
-                About Our School
+                Creston School
               </Link>
             </div>
             <div className="nav__sub-link">

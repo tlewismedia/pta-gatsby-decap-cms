@@ -22,7 +22,9 @@ export const IndexPageTemplate = ({
       <div className="home__hero">
         <div className="home__hero-container">
           <div className="home__hero-left">
-            {/* <div className="home__sub-tagline">Creston School PTA</div> */}
+            {/* <div className="home__sub-tagline">
+              Creston School PTA
+  </div> */}
 
             <div className="home__tagline">
               Together
@@ -93,9 +95,9 @@ export const IndexPageTemplate = ({
 
           <Link
             className="home__don_btn"
-            to="https://app.memberhub.gives/monthly-giving"
+            to="https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8"
           >
-            <button className="btn">Join&nbsp;Now</button>
+            <button className="btn-alt">Join&nbsp;Now</button>
           </Link>
 
           {/* <button className="btn">Donate</button> */}

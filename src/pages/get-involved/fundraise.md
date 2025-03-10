@@ -22,7 +22,7 @@ Our goal for 2024-25 is to raise **$25,000** and you can help us get there! No m
 * Donate cans through the BottleDrop program
 * Monthly Dine Out events
 * Passive (free-to-you) fundraising
-* Shop the [Creston Store.](https://creston.memberhub.com/store?limit=21&live=true)
+* Shop the [Creston Store.](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/sales-sheets)
 
 ## DONATIONS
 

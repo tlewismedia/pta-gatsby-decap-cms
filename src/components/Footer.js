@@ -13,17 +13,9 @@ const Footer = () => {
               <li>
                 <Link
                   className=""
-                  to="https://app.memberhub.gives/monthly-giving"
+                  to="https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8"
                 >
                   Donate
-                </Link>
-              </li>
-              <li>
-                <Link
-                  className=""
-                  to="https://app.memberhub.gives/monthly-giving"
-                >
-                  Join Monthly Giving
                 </Link>
               </li>
               <li>
@@ -57,7 +49,10 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="" to="/get-involved/become-a-member">
+                <Link
+                  className=""
+                  to="https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/sales-sheets"
+                >
                   Shop Our Store
                 </Link>
               </li>
@@ -110,7 +105,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link className="" to="/programs/creston-library">
-                  Creston Library
+                  School Specials
                 </Link>
               </li>
             </ul>
@@ -123,15 +118,26 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link className="" to="/about/pta-board-members/">
+                  Board Members
+                </Link>
+              </li>
+              <li>
                 <Link className="" to="/about/about-creston-school">
-                  Our School
+                  Creston School
                 </Link>
               </li>
               <li>
                 <Link className="foot_support_lists_contact" to="/contact">
                   <h3>Contact Us</h3>
                 </Link>
-                <p>Creston Elem. School<br/>4701 SE Bush St.<br/>Portland, OR 97206</p>
+                <p>
+                  Creston Elem. School
+                  <br />
+                  4701 SE Bush St.
+                  <br />
+                  Portland, OR 97206
+                </p>
               </li>
             </ul>
 

@@ -36,37 +36,33 @@
   @include page-row-container
   display: flex
   width: 100%
-  padding-top: 66px
-  padding-bottom: 40px
- 
+  padding: 80px 60px 40px 60px
+  *padding-bottom: 40px
+  *padding-left: 60px
 
 .home__tagline
   font-family: 'Darumadrop One', sans-serif
+  font-weight: 1000
   font-size: 110px
   line-height: .8
-  margin: 20px 25px 80px 25px
+  padding: 20px 30px 70px 0px
   color: $primary
 
 .home__tagline-second
-  color: #337190
+  color: rgb(69, 122, 151)
 
-
-// .home__sub-tagline
-//   font-family: 'open sans', sans-serif
-//   font-size: 13px
-//   letter-spacing: 6px
-//   margin-bottom: 15px
-//   margin-top: 0px
-//   color: $primary
-//   opacity: 0
-//   text-transform: uppercase
-//   font-weight: 1000
-//   margin-left: 29px
+*.home__sub-tagline
+  color: $primary
+  font-size: 17px
+  font-weight: 700
+  font-family: 'open-sans', sans-serif
+  letter-spacing: 1px
+  text-transform: uppercase
   
 
 .home__hero-left
   width: 50%
-
+  
 .home__hero-right
   width: 50%
   display: flex
@@ -163,7 +159,7 @@
 
 .home__don_container
   @include page-row-container
-  padding: 30px 120px 40px 120px
+  padding: 40px 120px 50px 120px
   justify-content: space-evenly
   align-items: center
   
@@ -189,7 +185,7 @@
 // COMMON (move out) ****************
 .btn
   background: $secondary
-  padding: 12px 36px
+  padding: 12px 28px
   border: none
   color: white
   font-size: 17px
@@ -198,13 +194,23 @@
   *border-bottom: 5px solid #b36338
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.054), 0 6px 5px 0 rgba(0, 0, 0, 0.064)
   text-decoration: none
-  margin-left: 30px
-  letter-spacing: .9px
+  
+  letter-spacing: .2px
 
 .btn-alt
-  background: white
-  color: $secondary
-  border: 0px solid $secondary
+  
+  padding: 12px 24px
+  color: #fff
+  font-size: 17px
+  font-weight: 700
+  border-radius: 25px
+  *border-bottom: 5px solid #b36338
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.054), 0 6px 5px 0 rgba(0, 0, 0, 0.064)
+  text-decoration: none
+  
+  letter-spacing: .2px
+  background: #ffffff00
+  border: 2px solid #fff
 
 
 
@@ -233,11 +239,10 @@
   
     ///eagle
 
-@media (max-width: 1000px)
+@media (max-width:1100px)
   .home__tagline
     font-size: 85px
-    margin-top: 40px
-    margin-bottom: 60px
+    padding: 16px 30px 64px 0px
 
   .home__eagle
     position: absolute
@@ -246,12 +251,12 @@
     
 
 
-@media (max-width: 960px)
+@media (max-width: 1000px)
   .home__don_container
     flex-direction: column
     align-items: center
     text-align: center
-    padding: 50px
+    padding: 80px
     
   .home__don_text
     margin-bottom: 25px
@@ -297,11 +302,7 @@
 
   .home__sup_heading
     margin-top: 80px
-    
     text-align: center
-
-  .btn    
-    margin-left: 0px 
   
   .home__sup_grid
     // background: yellow

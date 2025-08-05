@@ -53,7 +53,7 @@ Wendy Haile, volunteercoordinator@crestonschoolpta.org
 
 ![Photo of Wendy Haile.](/img/img_5126.jpeg)
 
-I joined the PTA Board as the Volunteer & Membership Coordinator in 2021. I have a fourth grader and a second grader. I love to travel, listen to music, try new foods, and exercise (hiking, biking, yoga). I got involved with the PTA because I wanted to build community with other families in the neighborhood, use my skills to help with school programs, encourage volunteerism, and learn more about what was happening at the school.
+I joined the PTA Board as the Volunteer & Membership Coordinator in 2021. I have a fourth grader and a second grader. I love to travel, listen to music, try new foods, and exercise (hiking, biking, yoga). I got involved with the PTA because I wanted to build community with other families in the neighborhood, use my skills to help with school programs, encourage volunteerism, and learn more about what was happening at the school. *
 
 ### **Health & Safety Chair**
 

@@ -11,7 +11,7 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 **Jenna Charton,** president@crestonschoolpta.org
 
-![photo of Jenna Charton](/img/img_5118.jpeg)
+![photo of Jenna Charton]()
 
 I joined the PTA board as the Health & Safety Chair for the ‘22-’23 school year. I moved over to the President role for the ‘23-’24 school year and continue in that role this year. It has been a very challenging yet rewarding experience. I got involved because I had a passion for helping students have access to a safe walking or bike route to school. I have a second grader and a third grader, and I enjoy camping, gardening, and being outdoors with my family in my free time. My goal is to make PTA accessible and inviting to everyone in our community.
 

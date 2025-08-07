@@ -16,6 +16,6 @@ B﻿ecome a PTA member - **[JOIN NOW!](https://www.oregonpta.org/membership)**
 
 ## WHERE DOES THE MONEY GO? 
 
-Joining Creston PTA means you are also joining Oregon PTA and National PTA. Member dues support advocacy efforts at the local, state and national levels, impacting decisions affecting your child's health, safety and quality of education.
+Joining Creston PTA means you are also joining Oregon PTA and National PTA. Member dues support advocacy efforts at the local, state and national levels, impacting decisions affecting your child's health, safety and quality of education. TEST
 
 ![Pie graph showing that Oregon PTA receives $7.27, National PTA receives $2.25, Creston PTA receives $.50.](/img/meta-chart.jpeg)

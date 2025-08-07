@@ -61,7 +61,7 @@ I joined the PTA Board as the Volunteer & Membership Coordinator in 2021. I have
 
 ![Photo of Josh Roll.](/img/img_5128.jpeg)
 
-This is my second year on the PTA Board as the Health & Safety Chair. I have a second grader and a kindergartener. I enjoy gardening and canning, coach baseball and rugby and loved watching the US men and women's rugby teams get after it at the Olympics this summer. There is so much in the world where we are all but powerless to do all that much about but organizing around our public school, a hearth of the larger community, allows for a place where the benefits of direct action can be seen and felt almost immediately. Putting in the time now ensures our kids have the supports they need and can make up for some of the financial resources that are not available.
+This is my second year on the PTA Board as the Health & Safety Chair. I have a second grader and a kindergartener. I enjoy gardening and canning, coach baseball and rugby and loved watching the US men and women's rugby teams get after it at the Olympics this summer. There is so much in the world where we are all but powerless to do all that much about but organizing around our public school, a hearth of the larger community, allows for a place where the benefits of direct action can be seen and felt almost immediately. Putting in the time now ensures our kids have the supports they need and can make up for some of the financial resources that are not available. TEST
 
 ### **DEI Chair**
 
